@@ -2143,13 +2143,14 @@
             "banner_enabled": true,
             "interstitial_enabled": true,
             "rewarded_enabled": true,
-            "native_enabled": true
+            "native_enabled": false
         },
         "privacyPolicyUrl": "https://example.com/privacy",
         "updateVersion": 1,
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
 
 
 
