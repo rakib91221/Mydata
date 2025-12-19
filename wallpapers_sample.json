@@ -1,0 +1,86 @@
+{
+  "wallpapers": [
+    {
+      "id": "1",
+      "title": "Sakura Bloom",
+      "category": "Nature",
+      "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951",
+      "isPremium": false,
+      "isTrending": true,
+      "isNew": true,
+      "views": 1200,
+      "type": "image"
+    },
+    {
+      "id": "2",
+      "title": "Mount Fuji Sunset",
+      "category": "Nature",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+      "isPremium": true,
+      "isTrending": true,
+      "isNew": false,
+      "views": 3500,
+      "type": "image"
+    },
+    {
+      "id": "3",
+      "title": "Tokyo Night",
+      "category": "City",
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+      "isPremium": false,
+      "isTrending": false,
+      "isNew": true,
+      "views": 800,
+      "type": "image"
+    },
+    {
+      "id": "4",
+      "title": "Kyoto Temple",
+      "category": "Architecture",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+      "isPremium": false,
+      "isTrending": true,
+      "isNew": false,
+      "views": 2100,
+      "type": "image"
+    },
+    {
+      "id": "5",
+      "title": "Anime Girl Garden",
+      "category": "Anime",
+      "imageUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586",
+      "isPremium": true,
+      "isTrending": false,
+      "isNew": true,
+      "views": 5000,
+      "type": "image"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Nature",
+      "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951"
+    },
+    {
+      "name": "City",
+      "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf"
+    },
+    {
+      "name": "Architecture",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
+    },
+    {
+      "name": "Anime",
+      "imageUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586"
+    }
+  ],
+  "appConfig": {
+    "adMobBannerId": "ca-app-pub-3940256099942544/6300978111",
+    "adMobInterstitialId": "ca-app-pub-3940256099942544/1033173712",
+    "adMobRewardedId": "ca-app-pub-3940256099942544/5224354917",
+    "adMobNativeId": "ca-app-pub-3940256099942544/2247696110",
+    "privacyPolicyUrl": "https://example.com/privacy",
+    "updateVersion": 1,
+    "updateMessage": "New wallpapers added! Update now for better experience."
+  }
+}
