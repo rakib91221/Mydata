@@ -4,7 +4,7 @@
             "id": "1",
             "title": "Sakura Bloom",
             "category": "Nature",
-            "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951",
+            "imageUrl": "https://i.pinimg.com/736x/e5/10/80/e51080da29de58368fcfc292522d2c2c.jpg",
             "isPremium": false,
             "isTrending": true,
             "isNew": true,
@@ -15,7 +15,7 @@
             "id": "2",
             "title": "Mount Fuji Sunset",
             "category": "Nature",
-            "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+            "imageUrl": "https://i.pinimg.com/736x/fc/b5/6b/fcb56b335e0173a34b05636ffc4e4079.jpg",
             "isPremium": true,
             "isTrending": true,
             "isNew": false,
@@ -26,7 +26,7 @@
             "id": "3",
             "title": "Tokyo Night",
             "category": "City",
-            "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf",
+            "imageUrl": "https://i.pinimg.com/1200x/aa/b9/e8/aab9e89888d5c72aa89bea276971c916.jpg",
             "isPremium": false,
             "isTrending": false,
             "isNew": true,
@@ -37,7 +37,7 @@
             "id": "4",
             "title": "Kyoto Temple",
             "category": "Architecture",
-            "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e",
+            "imageUrl": "https://i.pinimg.com/736x/b2/d2/3c/b2d23c85611c76f02dfd9554330df8df.jpg",
             "isPremium": false,
             "isTrending": true,
             "isNew": false,
@@ -48,7 +48,7 @@
             "id": "5",
             "title": "Anime Girl Garden",
             "category": "Anime",
-            "imageUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586",
+            "imageUrl": "https://i.pinimg.com/736x/86/57/b4/8657b460a622a1af78fbd4bad0adc6a3.jpg",
             "isPremium": true,
             "isTrending": false,
             "isNew": true,
@@ -93,3 +93,4 @@
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
