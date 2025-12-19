@@ -81,7 +81,7 @@
             "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
             "native_id": "ca-app-pub-3940256099942544/2247696110",
             "interstitial_frequency": 3,
-            "native_frequency": 2,
+            "native_frequency": 10,
             "ads_enabled": true,
             "banner_enabled": true,
             "interstitial_enabled": true,
@@ -93,3 +93,4 @@
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
