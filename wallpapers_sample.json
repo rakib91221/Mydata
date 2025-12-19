@@ -2119,16 +2119,16 @@
             "imageUrl": "https://i.pinimg.com/1200x/66/1a/60/661a60b9826195ff9b9c2b689d47ec26.jpg"
         },
         {
-            "name": "City",
-            "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf"
+            "name": "Jennie",
+            "imageUrl": "https://i.pinimg.com/736x/fc/98/3c/fc983c15ab02a43d76646be21bf91639.jpg"
         },
         {
-            "name": "Architecture",
-            "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
+            "name": "Lisa",
+            "imageUrl": "https://i.pinimg.com/736x/b7/2f/14/b72f14ce159626873995d3c9e09a1975.jpg"
         },
         {
-            "name": "Anime",
-            "imageUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586"
+            "name": "Rose",
+            "imageUrl": "https://i.pinimg.com/736x/7f/ab/b4/7fabb4bd0b1644e4f5eff486a3b8623e.jpg"
         }
     ],
     "appConfig": {
@@ -2150,6 +2150,7 @@
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
 
 
 
