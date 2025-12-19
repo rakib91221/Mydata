@@ -2116,19 +2116,19 @@
     "categories": [
         {
             "name": "Nature",
-            "imageUrl": "https://images.unsplash.com/photo-1522383225653-ed111181a951"
+            "imageUrl": "https://i.pinimg.com/1200x/fc/69/3c/fc693cce1130eca93cf758894c322638.jpg"
         },
         {
             "name": "City",
-            "imageUrl": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf"
+            "imageUrl": "https://i.pinimg.com/736x/ae/f4/1d/aef41dcb2842ca3e710b5d55f8f409a5.jpg"
         },
         {
             "name": "Architecture",
-            "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e"
+            "imageUrl": "https://i.pinimg.com/736x/c7/63/c6/c763c64b521b23898763167728f195f7.jpg"
         },
         {
             "name": "Anime",
-            "imageUrl": "https://images.unsplash.com/photo-1578632292335-df3abbb0d586"
+            "imageUrl": "https://i.pinimg.com/736x/e8/57/38/e857388380483d863c775c844c3bda32.jpg"
         }
     ],
     "appConfig": {
@@ -2150,6 +2150,7 @@
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
 
 
 
