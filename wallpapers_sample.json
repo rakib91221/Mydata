@@ -54,6 +54,28 @@
             "isNew": true,
             "views": 5000,
             "type": "image"
+        },
+        {
+            "id": "6",
+            "title": "Anime Girl Garden",
+            "category": "Anime",
+            "imageUrl": "https://i.pinimg.com/736x/72/ba/f3/72baf3ad51a19e47911d4ef0a0a54df7.jpg",
+            "isPremium": true,
+            "isTrending": true,
+            "isNew": true,
+            "views": 5000,
+            "type": "image"
+        },
+        {
+            "id": "7",
+            "title": "Anime Girl Garden",
+            "category": "Anime",
+            "imageUrl": "https://i.pinimg.com/736x/b6/12/a1/b612a192ac5c0fab21031a35609a72a7.jpg",
+            "isPremium": true,
+            "isTrending": true,
+            "isNew": true,
+            "views": 5000,
+            "type": "image"
         }
     ],
     "categories": [
@@ -93,4 +115,5 @@
         "updateMessage": "New wallpapers added! Update now for better experience."
     }
 }
+
 
