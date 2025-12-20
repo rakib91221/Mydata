@@ -3,19 +3,19 @@
     {
       "id": 1,
       "name": "Nature",
-      "thumbnail": "https://example.com/category/nature.jpg",
+      "thumbnail": "https://i.pinimg.com/1200x/0a/34/46/0a3446bda376caed3068c14a9990a792.jpg",
       "wallpaperCount": 120
     },
     {
       "id": 2,
       "name": "Abstract",
-      "thumbnail": "https://example.com/category/abstract.jpg",
+      "thumbnail": "https://i.pinimg.com/736x/50/5b/36/505b36a0ed653b7891950d578dde02c6.jpg",
       "wallpaperCount": 85
     },
     {
       "id": 3,
       "name": "Animals",
-      "thumbnail": "https://example.com/category/animals.jpg",
+      "thumbnail": "https://i.pinimg.com/1200x/6b/72/3d/6b723d643899b09a6ab7c016d241a1f6.jpg",
       "wallpaperCount": 95
     },
     {
@@ -35,8 +35,8 @@
     {
       "id": 101,
       "title": "Mountain Landscape",
-      "imageUrl": "https://example.com/wallpapers/mountain.jpg",
-      "thumbnailUrl": "https://example.com/thumbnails/mountain.jpg",
+      "imageUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
+      "thumbnailUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 15420,
@@ -67,8 +67,8 @@
     {
       "id": 201,
       "title": "Ocean Waves",
-      "imageUrl": "https://example.com/wallpapers/ocean.jpg",
-      "thumbnailUrl": "https://example.com/thumbnails/ocean.jpg",
+      "imageUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
+      "thumbnailUrl": "hhttps://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 2450,
@@ -89,8 +89,8 @@
     {
       "id": 301,
       "title": "Galaxy Stars",
-      "imageUrl": "https://example.com/wallpapers/galaxy.jpg",
-      "thumbnailUrl": "https://example.com/thumbnails/galaxy.jpg",
+      "imageUrl": "https://i.pinimg.com/1200x/10/db/97/10db97b71171cda298b75352d787dbfe.jpg",
+      "thumbnailUrl": "https://i.pinimg.com/1200x/10/db/97/10db97b71171cda298b75352d787dbfe.jpg",
       "type": "image",
       "categoryId": 2,
       "viewCount": 28750,
@@ -111,9 +111,9 @@
     {
       "id": 401,
       "title": "Golden Hour",
-      "imageUrl": "https://example.com/wallpapers/goldenhour.mp4",
-      "thumbnailUrl": "https://example.com/thumbnails/goldenhour.jpg",
-      "type": "video",
+      "imageUrl": "https://i.pinimg.com/736x/c6/1a/1e/c61a1e9626f04fc2021bfe5171c988ba.jpg",
+      "thumbnailUrl": "https://i.pinimg.com/736x/c6/1a/1e/c61a1e9626f04fc2021bfe5171c988ba.jpg",
+      "type": "image",
       "categoryId": 1,
       "viewCount": 8750,
       "isPremium": true
@@ -129,4 +129,5 @@
       "isPremium": true
     }
   ]
+
 }
