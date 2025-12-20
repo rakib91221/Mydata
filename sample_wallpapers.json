@@ -1,0 +1,132 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Nature",
+      "thumbnail": "https://example.com/category/nature.jpg",
+      "wallpaperCount": 120
+    },
+    {
+      "id": 2,
+      "name": "Abstract",
+      "thumbnail": "https://example.com/category/abstract.jpg",
+      "wallpaperCount": 85
+    },
+    {
+      "id": 3,
+      "name": "Animals",
+      "thumbnail": "https://example.com/category/animals.jpg",
+      "wallpaperCount": 95
+    },
+    {
+      "id": 4,
+      "name": "Cars",
+      "thumbnail": "https://example.com/category/cars.jpg",
+      "wallpaperCount": 70
+    },
+    {
+      "id": 5,
+      "name": "Cities",
+      "thumbnail": "https://example.com/category/cities.jpg",
+      "wallpaperCount": 60
+    }
+  ],
+  "trending": [
+    {
+      "id": 101,
+      "title": "Mountain Landscape",
+      "imageUrl": "https://example.com/wallpapers/mountain.jpg",
+      "thumbnailUrl": "https://example.com/thumbnails/mountain.jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 15420,
+      "isPremium": false
+    },
+    {
+      "id": 102,
+      "title": "Neon Abstract",
+      "imageUrl": "https://example.com/wallpapers/neon.mp4",
+      "thumbnailUrl": "https://example.com/thumbnails/neon.jpg",
+      "type": "video",
+      "categoryId": 2,
+      "viewCount": 12850,
+      "isPremium": true
+    },
+    {
+      "id": 103,
+      "title": "Wildlife",
+      "imageUrl": "https://example.com/wallpapers/wildlife.gif",
+      "thumbnailUrl": "https://example.com/thumbnails/wildlife.jpg",
+      "type": "gif",
+      "categoryId": 3,
+      "viewCount": 11200,
+      "isPremium": false
+    }
+  ],
+  "newArrivals": [
+    {
+      "id": 201,
+      "title": "Ocean Waves",
+      "imageUrl": "https://example.com/wallpapers/ocean.jpg",
+      "thumbnailUrl": "https://example.com/thumbnails/ocean.jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 2450,
+      "isPremium": false
+    },
+    {
+      "id": 202,
+      "title": "Cyberpunk City",
+      "imageUrl": "https://example.com/wallpapers/cyberpunk.mp4",
+      "thumbnailUrl": "https://example.com/thumbnails/cyberpunk.jpg",
+      "type": "video",
+      "categoryId": 5,
+      "viewCount": 1875,
+      "isPremium": true
+    }
+  ],
+  "mostViewed": [
+    {
+      "id": 301,
+      "title": "Galaxy Stars",
+      "imageUrl": "https://example.com/wallpapers/galaxy.jpg",
+      "thumbnailUrl": "https://example.com/thumbnails/galaxy.jpg",
+      "type": "image",
+      "categoryId": 2,
+      "viewCount": 28750,
+      "isPremium": false
+    },
+    {
+      "id": 302,
+      "title": "Forest Path",
+      "imageUrl": "https://example.com/wallpapers/forest.jpg",
+      "thumbnailUrl": "https://example.com/thumbnails/forest.jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 24500,
+      "isPremium": false
+    }
+  ],
+  "premiumWallpapers": [
+    {
+      "id": 401,
+      "title": "Golden Hour",
+      "imageUrl": "https://example.com/wallpapers/goldenhour.mp4",
+      "thumbnailUrl": "https://example.com/thumbnails/goldenhour.jpg",
+      "type": "video",
+      "categoryId": 1,
+      "viewCount": 8750,
+      "isPremium": true
+    },
+    {
+      "id": 402,
+      "title": "Digital Art",
+      "imageUrl": "https://example.com/wallpapers/digitalart.gif",
+      "thumbnailUrl": "https://example.com/thumbnails/digitalart.jpg",
+      "type": "gif",
+      "categoryId": 2,
+      "viewCount": 6200,
+      "isPremium": true
+    }
+  ]
+}
