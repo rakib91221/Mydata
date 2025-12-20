@@ -1,133 +1,253 @@
 {
+  "ad_config": {
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+    "show_banner": true,
+    "show_interstitial": true,
+    "show_rewarded": true,
+    "show_native": true,
+    "interstitial_interval": 3
+  },
   "categories": [
     {
       "id": 1,
-      "name": "Nature",
-      "thumbnail": "https://i.pinimg.com/1200x/0a/34/46/0a3446bda376caed3068c14a9990a792.jpg",
+      "name": "Abstract",
+      "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=500",
       "wallpaperCount": 120
     },
     {
       "id": 2,
-      "name": "Abstract",
-      "thumbnail": "https://i.pinimg.com/736x/50/5b/36/505b36a0ed653b7891950d578dde02c6.jpg",
-      "wallpaperCount": 85
+      "name": "Nature",
+      "thumbnail": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=500",
+      "wallpaperCount": 450
     },
     {
       "id": 3,
-      "name": "Animals",
-      "thumbnail": "https://i.pinimg.com/1200x/6b/72/3d/6b723d643899b09a6ab7c016d241a1f6.jpg",
-      "wallpaperCount": 95
+      "name": "Cyberpunk",
+      "thumbnail": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=500",
+      "wallpaperCount": 85
     },
     {
       "id": 4,
-      "name": "Cars",
-      "thumbnail": "https://example.com/category/cars.jpg",
-      "wallpaperCount": 70
+      "name": "Minimal",
+      "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=500",
+      "wallpaperCount": 320
     },
     {
       "id": 5,
-      "name": "Cities",
-      "thumbnail": "https://example.com/category/cities.jpg",
-      "wallpaperCount": 60
+      "name": "Space",
+      "thumbnail": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=500",
+      "wallpaperCount": 150
     }
   ],
   "trending": [
     {
       "id": 101,
-      "title": "Mountain Landscape",
-      "imageUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
-      "thumbnailUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
+      "title": "Fluid Neon Art",
+      "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400",
       "type": "image",
       "categoryId": 1,
-      "viewCount": 15420,
+      "viewCount": 15400,
       "isPremium": false
     },
     {
       "id": 102,
-      "title": "Neon Abstract",
-      "imageUrl": "https://example.com/wallpapers/neon.mp4",
-      "thumbnailUrl": "https://example.com/thumbnails/neon.jpg",
-      "type": "video",
+      "title": "Mountain Peak Glow",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
+      "type": "image",
       "categoryId": 2,
-      "viewCount": 12850,
+      "viewCount": 12300,
       "isPremium": true
     },
     {
       "id": 103,
-      "title": "Wildlife",
-      "imageUrl": "https://example.com/wallpapers/wildlife.gif",
-      "thumbnailUrl": "https://example.com/thumbnails/wildlife.jpg",
-      "type": "gif",
+      "title": "Cyber City Rain",
+      "imageUrl": "https://images.unsplash.com/photo-1515630596273-02d330583636?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1515630596273-02d330583636?q=80&w=400",
+      "type": "image",
       "categoryId": 3,
-      "viewCount": 11200,
+      "viewCount": 9800,
       "isPremium": false
+    },
+    {
+      "id": 104,
+      "title": "Minimal Desert",
+      "imageUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=400",
+      "type": "image",
+      "categoryId": 4,
+      "viewCount": 21000,
+      "isPremium": false
+    },
+    {
+      "id": 105,
+      "title": "Galaxy Swirl",
+      "imageUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=400",
+      "type": "image",
+      "categoryId": 5,
+      "viewCount": 35000,
+      "isPremium": true
     }
   ],
   "newArrivals": [
     {
       "id": 201,
       "title": "Ocean Waves",
-      "imageUrl": "https://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
-      "thumbnailUrl": "hhttps://i.pinimg.com/1200x/70/37/8a/70378aa471ba79c848708ebf100f7daa.jpg",
+      "imageUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?q=80&w=400",
       "type": "image",
-      "categoryId": 1,
-      "viewCount": 2450,
+      "categoryId": 2,
+      "viewCount": 500,
       "isPremium": false
     },
     {
       "id": 202,
-      "title": "Cyberpunk City",
-      "imageUrl": "https://example.com/wallpapers/cyberpunk.mp4",
-      "thumbnailUrl": "https://example.com/thumbnails/cyberpunk.jpg",
-      "type": "video",
-      "categoryId": 5,
-      "viewCount": 1875,
+      "title": "Neon Geometry",
+      "imageUrl": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=400",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 1200,
+      "isPremium": false
+    },
+    {
+      "id": 203,
+      "title": "Forest Mist",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=400",
+      "type": "image",
+      "categoryId": 2,
+      "viewCount": 850,
       "isPremium": true
+    },
+    {
+      "id": 204,
+      "title": "Cyber Samurai",
+      "imageUrl": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=400",
+      "type": "image",
+      "categoryId": 3,
+      "viewCount": 3200,
+      "isPremium": false
+    },
+    {
+      "id": 205,
+      "title": "Minimalist Architecture",
+      "imageUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=400",
+      "type": "image",
+      "categoryId": 4,
+      "viewCount": 1500,
+      "isPremium": false
     }
   ],
   "mostViewed": [
     {
       "id": 301,
-      "title": "Galaxy Stars",
-      "imageUrl": "https://i.pinimg.com/1200x/10/db/97/10db97b71171cda298b75352d787dbfe.jpg",
-      "thumbnailUrl": "https://i.pinimg.com/1200x/10/db/97/10db97b71171cda298b75352d787dbfe.jpg",
+      "title": "Deep Space Nebula",
+      "imageUrl": "https://images.unsplash.com/photo-1464802686167-b939a67e06a1?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464802686167-b939a67e06a1?q=80&w=400",
       "type": "image",
-      "categoryId": 2,
-      "viewCount": 28750,
+      "categoryId": 5,
+      "viewCount": 85000,
       "isPremium": false
     },
     {
       "id": 302,
-      "title": "Forest Path",
-      "imageUrl": "https://example.com/wallpapers/forest.jpg",
-      "thumbnailUrl": "https://example.com/thumbnails/forest.jpg",
+      "title": "Golden Sunset",
+      "imageUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?q=80&w=400",
+      "type": "image",
+      "categoryId": 2,
+      "viewCount": 72000,
+      "isPremium": false
+    },
+    {
+      "id": 303,
+      "title": "Abstract Waves",
+      "imageUrl": "https://images.unsplash.com/photo-1502691876148-a84978e59af8?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1502691876148-a84978e59af8?q=80&w=400",
       "type": "image",
       "categoryId": 1,
-      "viewCount": 24500,
+      "viewCount": 64000,
+      "isPremium": false
+    },
+    {
+      "id": 304,
+      "title": "Cyberpunk Alley",
+      "imageUrl": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1555680202-c86f0e12f086?q=80&w=400",
+      "type": "image",
+      "categoryId": 3,
+      "viewCount": 59000,
+      "isPremium": true
+    },
+    {
+      "id": 305,
+      "title": "Minimalist Lake",
+      "imageUrl": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?q=80&w=400",
+      "type": "image",
+      "categoryId": 4,
+      "viewCount": 51000,
       "isPremium": false
     }
   ],
   "premiumWallpapers": [
     {
       "id": 401,
-      "title": "Golden Hour",
-      "imageUrl": "https://i.pinimg.com/736x/c6/1a/1e/c61a1e9626f04fc2021bfe5171c988ba.jpg",
-      "thumbnailUrl": "https://i.pinimg.com/736x/c6/1a/1e/c61a1e9626f04fc2021bfe5171c988ba.jpg",
+      "title": "Premium Galaxy",
+      "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=400",
       "type": "image",
-      "categoryId": 1,
-      "viewCount": 8750,
+      "categoryId": 5,
+      "viewCount": 12000,
       "isPremium": true
     },
     {
       "id": 402,
-      "title": "Digital Art",
-      "imageUrl": "https://example.com/wallpapers/digitalart.gif",
-      "thumbnailUrl": "https://example.com/thumbnails/digitalart.jpg",
-      "type": "gif",
+      "title": "Neon Tiger",
+      "imageUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=400",
+      "type": "image",
+      "categoryId": 3,
+      "viewCount": 9500,
+      "isPremium": true
+    },
+    {
+      "id": 403,
+      "title": "Abstract Gold",
+      "imageUrl": "https://images.unsplash.com/photo-1550684847-75bdda21cc95?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1550684847-75bdda21cc95?q=80&w=400",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 8200,
+      "isPremium": true
+    },
+    {
+      "id": 404,
+      "title": "Arctic Glow",
+      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=400",
+      "type": "image",
       "categoryId": 2,
-      "viewCount": 6200,
+      "viewCount": 7400,
+      "isPremium": true
+    },
+    {
+      "id": 405,
+      "title": "Minimalist Peak",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
+      "type": "image",
+      "categoryId": 4,
+      "viewCount": 6100,
       "isPremium": true
     }
   ]
-
 }
