@@ -54,8 +54,8 @@
     {
       "id": 101,
       "title": "Fluid Neon Art",
-      "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400",
+      "imageUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
+      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 15400,
@@ -246,3 +246,4 @@
     }
   ]
 }
+
