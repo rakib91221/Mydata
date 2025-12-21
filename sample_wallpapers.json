@@ -4,7 +4,7 @@
     "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "native_id": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial_frequency": 1,
+    "interstitial_frequency": 3,
     "native_frequency": 6,
     "ads_enabled": true,
     "banner_enabled": true,
@@ -3390,3 +3390,4 @@
     }
   ]
 }
+
