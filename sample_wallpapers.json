@@ -1,14 +1,16 @@
 {
   "ad_config": {
-    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
-    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
-    "show_banner": true,
-    "show_interstitial": true,
-    "show_rewarded": true,
-    "show_native": true,
-    "interstitial_interval": 3
+    "banner_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
+    "native_id": "ca-app-pub-3940256099942544/2247696110",
+    "interstitial_frequency": 3,
+    "native_frequency": 8,
+    "ads_enabled": false,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "rewarded_enabled": true,
+    "native_enabled": false
   },
   "app_config": {
     "privacy_policy_url": "https://www.google.com",
