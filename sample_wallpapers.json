@@ -24,31 +24,7 @@
       "name": "Jisoo",
       "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=500",
       "wallpaperCount": 120
-    },
-    {
-      "id": 2,
-      "name": "Nature",
-      "thumbnail": "https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?q=80&w=500",
-      "wallpaperCount": 450
-    },
-    {
-      "id": 3,
-      "name": "Cyberpunk",
-      "thumbnail": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=500",
-      "wallpaperCount": 85
-    },
-    {
-      "id": 4,
-      "name": "Minimal",
-      "thumbnail": "https://images.unsplash.com/photo-1494438639946-1ebd1d20bf85?q=80&w=500",
-      "wallpaperCount": 320
-    },
-    {
-      "id": 5,
-      "name": "Space",
-      "thumbnail": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=500",
-      "wallpaperCount": 150
-    }
+    },  
   ],
   "trending": [
     {
@@ -246,6 +222,7 @@
     }
   ]
 }
+
 
 
 
