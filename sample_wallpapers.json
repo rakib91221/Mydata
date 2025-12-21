@@ -22,7 +22,7 @@
     {
       "id": 1,
       "name": "Jisoo",
-      "thumbnail": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
       "wallpaperCount": 1300
     }  
   ],
@@ -30,8 +30,8 @@
     {
       "id": 101,
       "title": "Jisoo",
-      "imageUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
-      "thumbnailUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2824%29.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2824%29.jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 15400,
@@ -48,39 +48,6 @@
       "viewCount": 12300,
       "isPremium": true,
       "tags": "Jisoo, blackpink"
-    },
-    {
-      "id": 103,
-      "title": "Cyber City Rain",
-      "imageUrl": "https://images.unsplash.com/photo-1515630596273-02d330583636?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1515630596273-02d330583636?q=80&w=400",
-      "type": "image",
-      "categoryId": 3,
-      "viewCount": 9800,
-      "isPremium": false,
-      "tags": "cyberpunk, city, rain, neon, night"
-    },
-    {
-      "id": 104,
-      "title": "Minimal Desert",
-      "imageUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=400",
-      "type": "image",
-      "categoryId": 4,
-      "viewCount": 21000,
-      "isPremium": false,
-      "tags": "minimal, desert, sand, nature, clean"
-    },
-    {
-      "id": 105,
-      "title": "Galaxy Swirl",
-      "imageUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=400",
-      "type": "image",
-      "categoryId": 5,
-      "viewCount": 35000,
-      "isPremium": true,
-      "tags": "space, galaxy, stars, nebula, cosmos"
     }
   ],
   "newArrivals": [
@@ -2367,6 +2334,7 @@
     }
   ]
 }
+
 
 
 
