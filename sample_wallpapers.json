@@ -21,7 +21,7 @@
   "categories": [
     {
       "id": 1,
-      "name": "Abstract",
+      "name": "Jisoo",
       "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=500",
       "wallpaperCount": 120
     },
@@ -53,14 +53,14 @@
   "trending": [
     {
       "id": 101,
-      "title": "Fluid Neon Art",
+      "title": "Jisoo",
       "imageUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
       "thumbnailUrl": "https://cdn.jsdelivr.net/gh/srrakib292/blackp/main/Jis/jis%20%281%29.jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 15400,
       "isPremium": false,
-      "tags": "abstract, neon, fluid, colors"
+      "tags": "jisoo, blackpink"
     },
     {
       "id": 102,
@@ -68,10 +68,10 @@
       "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
       "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
       "type": "image",
-      "categoryId": 2,
+      "categoryId": 1,
       "viewCount": 12300,
       "isPremium": true,
-      "tags": "Jisoo, mountain, snow, peak, landscape"
+      "tags": "Jisoo, blackpink"
     },
     {
       "id": 103,
@@ -246,5 +246,6 @@
     }
   ]
 }
+
 
 
