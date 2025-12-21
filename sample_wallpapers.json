@@ -4,8 +4,8 @@
     "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
     "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "native_id": "ca-app-pub-3940256099942544/2247696110",
-    "interstitial_frequency": 3,
-    "native_frequency": 4,
+    "interstitial_frequency": 1,
+    "native_frequency": 6,
     "ads_enabled": true,
     "banner_enabled": true,
     "interstitial_enabled": true,
@@ -216,66 +216,33 @@
       "thumbnailUrl": "https://images.unsplash.com/photo-1499346030926-9a72daac6c63?q=80&w=400",
       "type": "image",
       "categoryId": 4,
-      "viewCount": 51000,
+      "viewCount": 42000,
       "isPremium": false,
-      "tags": "minimal, lake, nature, water, clean"
+      "tags": "minimal, lake, nature, calm"
     }
   ],
-  "premiumWallpapers": [
+  "premium": [
     {
       "id": 401,
-      "title": "Premium Galaxy",
-      "imageUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=400",
+      "title": "Cyberpunk Samurai Red",
+      "imageUrl": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1614728263952-84ea256f9679?q=80&w=400",
       "type": "image",
-      "categoryId": 5,
-      "viewCount": 12000,
+      "categoryId": 3,
+      "viewCount": 15000,
       "isPremium": true,
-      "tags": "space, galaxy, premium, stars"
+      "tags": "cyberpunk, samurai, red, neon"
     },
     {
       "id": 402,
-      "title": "Neon Tiger",
-      "imageUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=400",
-      "type": "image",
-      "categoryId": 3,
-      "viewCount": 9500,
-      "isPremium": true,
-      "tags": "cyberpunk, tiger, neon, animal"
-    },
-    {
-      "id": 403,
-      "title": "Abstract Gold",
-      "imageUrl": "https://images.unsplash.com/photo-1550684847-75bdda21cc95?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1550684847-75bdda21cc95?q=80&w=400",
-      "type": "image",
-      "categoryId": 1,
-      "viewCount": 8200,
-      "isPremium": true,
-      "tags": "abstract, gold, luxury, colors"
-    },
-    {
-      "id": 404,
-      "title": "Arctic Glow",
-      "imageUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?q=80&w=400",
+      "title": "Mystic Forest Night",
+      "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1080",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=400",
       "type": "image",
       "categoryId": 2,
-      "viewCount": 7400,
+      "viewCount": 12000,
       "isPremium": true,
-      "tags": "nature, arctic, ice, glow, snow"
-    },
-    {
-      "id": 405,
-      "title": "Minimalist Peak",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
-      "type": "image",
-      "categoryId": 4,
-      "viewCount": 6100,
-      "isPremium": true,
-      "tags": "minimal, mountain, peak, nature"
+      "tags": "nature, forest, mystic, night"
     }
   ]
 }
