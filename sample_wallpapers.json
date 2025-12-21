@@ -10,6 +10,11 @@
     "show_native": true,
     "interstitial_interval": 3
   },
+  "app_config": {
+    "privacy_policy_url": "https://www.google.com",
+    "terms_url": "https://www.google.com",
+    "contact_email": "support@example.com"
+  },
   "categories": [
     {
       "id": 1,
