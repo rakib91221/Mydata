@@ -64,14 +64,14 @@
     },
     {
       "id": 102,
-      "title": "Mountain Peak Glow",
-      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1080",
-      "thumbnailUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
+      "title": "Jisoo",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
       "type": "image",
       "categoryId": 2,
       "viewCount": 12300,
       "isPremium": true,
-      "tags": "nature, mountain, snow, peak, landscape"
+      "tags": "Jisoo, mountain, snow, peak, landscape"
     },
     {
       "id": 103,
@@ -246,4 +246,5 @@
     }
   ]
 }
+
 
