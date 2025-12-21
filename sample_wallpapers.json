@@ -51,7 +51,8 @@
       "type": "image",
       "categoryId": 1,
       "viewCount": 15400,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "abstract, neon, fluid, colors"
     },
     {
       "id": 102,
@@ -61,7 +62,8 @@
       "type": "image",
       "categoryId": 2,
       "viewCount": 12300,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "nature, mountain, snow, peak, landscape"
     },
     {
       "id": 103,
@@ -71,7 +73,8 @@
       "type": "image",
       "categoryId": 3,
       "viewCount": 9800,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "cyberpunk, city, rain, neon, night"
     },
     {
       "id": 104,
@@ -81,7 +84,8 @@
       "type": "image",
       "categoryId": 4,
       "viewCount": 21000,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "minimal, desert, sand, nature, clean"
     },
     {
       "id": 105,
@@ -91,7 +95,8 @@
       "type": "image",
       "categoryId": 5,
       "viewCount": 35000,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "space, galaxy, stars, nebula, cosmos"
     }
   ],
   "newArrivals": [
@@ -103,7 +108,8 @@
       "type": "image",
       "categoryId": 2,
       "viewCount": 500,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "nature, ocean, waves, sea, blue"
     },
     {
       "id": 202,
@@ -113,7 +119,8 @@
       "type": "image",
       "categoryId": 1,
       "viewCount": 1200,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "abstract, neon, geometry, shapes"
     },
     {
       "id": 203,
@@ -123,7 +130,8 @@
       "type": "image",
       "categoryId": 2,
       "viewCount": 850,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "nature, forest, mist, trees, green"
     },
     {
       "id": 204,
@@ -133,7 +141,8 @@
       "type": "image",
       "categoryId": 3,
       "viewCount": 3200,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "cyberpunk, samurai, neon, warrior"
     },
     {
       "id": 205,
@@ -143,7 +152,8 @@
       "type": "image",
       "categoryId": 4,
       "viewCount": 1500,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "minimal, architecture, building, clean"
     }
   ],
   "mostViewed": [
@@ -155,7 +165,8 @@
       "type": "image",
       "categoryId": 5,
       "viewCount": 85000,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "space, nebula, stars, cosmos"
     },
     {
       "id": 302,
@@ -165,7 +176,8 @@
       "type": "image",
       "categoryId": 2,
       "viewCount": 72000,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "nature, sunset, golden, landscape"
     },
     {
       "id": 303,
@@ -175,7 +187,8 @@
       "type": "image",
       "categoryId": 1,
       "viewCount": 64000,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "abstract, waves, colors, fluid"
     },
     {
       "id": 304,
@@ -185,7 +198,8 @@
       "type": "image",
       "categoryId": 3,
       "viewCount": 59000,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "cyberpunk, alley, neon, city"
     },
     {
       "id": 305,
@@ -195,7 +209,8 @@
       "type": "image",
       "categoryId": 4,
       "viewCount": 51000,
-      "isPremium": false
+      "isPremium": false,
+      "tags": "minimal, lake, nature, water, clean"
     }
   ],
   "premiumWallpapers": [
@@ -207,7 +222,8 @@
       "type": "image",
       "categoryId": 5,
       "viewCount": 12000,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "space, galaxy, premium, stars"
     },
     {
       "id": 402,
@@ -217,7 +233,8 @@
       "type": "image",
       "categoryId": 3,
       "viewCount": 9500,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "cyberpunk, tiger, neon, animal"
     },
     {
       "id": 403,
@@ -227,7 +244,8 @@
       "type": "image",
       "categoryId": 1,
       "viewCount": 8200,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "abstract, gold, luxury, colors"
     },
     {
       "id": 404,
@@ -237,7 +255,8 @@
       "type": "image",
       "categoryId": 2,
       "viewCount": 7400,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "nature, arctic, ice, glow, snow"
     },
     {
       "id": 405,
@@ -247,7 +266,8 @@
       "type": "image",
       "categoryId": 4,
       "viewCount": 6100,
-      "isPremium": true
+      "isPremium": true,
+      "tags": "minimal, mountain, peak, nature"
     }
   ]
 }
