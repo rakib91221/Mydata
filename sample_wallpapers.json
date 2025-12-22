@@ -18,6 +18,22 @@
     "contact_email": "support@example.com",
     "more_apps_url": "https://play.google.com/store/apps/developer?id=SrRafi"
   },
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Blackpink Wallpaper",
+      "icon_url": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
+      "app_url": "https://play.google.com/store/apps/details?id=com.srrafi.blackpink",
+      "description": "Best Blackpink wallpapers for your phone"
+    },
+    {
+      "id": 2,
+      "title": "K-Pop Music Player",
+      "icon_url": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2820%29.jpg",
+      "app_url": "https://play.google.com/store/apps/details?id=com.srrafi.kpopmusic",
+      "description": "Listen to your favorite K-Pop songs"
+    }
+  ],
   "categories": [
     {
       "id": 1,
@@ -5596,6 +5612,7 @@
     }
   ]
 }
+
 
 
 
