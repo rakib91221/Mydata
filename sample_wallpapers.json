@@ -24,6 +24,12 @@
       "name": "Jisoo",
       "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
       "wallpaperCount": 1300
+    },
+    {
+      "id": 2,
+      "name": "Rose",
+      "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/blob/main/ros/ros%20(19).jpg",
+      "wallpaperCount": 1100
     }
   ],
   "trending": [
@@ -3390,4 +3396,5 @@
     }
   ]
 }
+
 
