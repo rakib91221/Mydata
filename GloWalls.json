@@ -41,24 +41,6 @@
       "name": "Wall01",
       "thumbnail": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (105).jpg",
       "wallpaperCount": 1300
-    },
-    {
-      "id": 2,
-      "name": "Rose",
-      "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/main/ros/ros%20%28127%29.jpg",
-      "wallpaperCount": 1100
-    },
-     {
-      "id": 3,
-      "name": "Jennie",
-      "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/main/jen/1%20%28279%29.jpg",
-      "wallpaperCount": 2000
-    },
-     {
-      "id": 4,
-      "name": "Lisa",
-      "thumbnail": "https://raw.githubusercontent.com/srrakib292/blackp/main/lis/2%20%281017%29_1620x2880_compressed.jpg",
-      "wallpaperCount": 1800
     }
   ],
   "trending": [
@@ -5582,6 +5564,7 @@
     }
   ]
 }
+
 
 
 
