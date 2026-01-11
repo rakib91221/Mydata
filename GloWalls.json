@@ -5,7 +5,7 @@
     "rewarded_id": "ca-app-pub-3940256099942544/5224354917",
     "native_id": "ca-app-pub-3940256099942544/2247696110",
     "interstitial_frequency": 4,
-    "native_frequency": 8,
+    "native_frequency": 10,
     "ads_enabled": true,
     "banner_enabled": true,
     "interstitial_enabled": true,
@@ -13,10 +13,10 @@
     "native_enabled": true
   },
   "app_config": {
-    "privacy_policy_url": "https://www.google.com",
+    "privacy_policy_url": "https://sites.google.com/view/glowviawallpaper/",
     "terms_url": "https://www.google.com",
-    "contact_email": "support@example.com",
-    "more_apps_url": "https://play.google.com/store/apps/developer?id=SrRafi",
+    "contact_email": "fatema.dev.info@gmail.com",
+    "more_apps_url": "https://play.google.com/store/apps/developer?id=PixelBlue Studio",
     "screenshot_protection_enabled": true
   },
   "more_apps": [
@@ -46,25 +46,25 @@
   "trending": [
     {
       "id": 101,
-      "title": "Jisoo",
-      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2824%29.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2824%29.jpg",
+      "title": "Amoled",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(450).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(450).jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 15400,
       "isPremium": false,
-      "tags": "jisoo, blackpink"
+      "tags": "Amoled, beautiful"
     },
     {
       "id": 102,
-      "title": "Jisoo",
-      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%2810%29.jpg",
+      "title": "Car",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(441).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(441).jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 12300,
       "isPremium": true,
-      "tags": "Jisoo, blackpink"
+      "tags": "car, blackcar"
     }
   ],
   "newArrivals": [
@@ -5540,30 +5540,31 @@
   "mostViewed": [
     {
       "id": 301,
-      "title": "Jisoo",
-      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%28277%29.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%28277%29.jpg",
+      "title": "anime",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(495).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(495).jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 85000,
       "isPremium": false,
-      "tags": "jisso, blackpink"
+      "tags": "anime, animegirl"
     }
   ],
   "premium": [
     {
       "id": 5,
-      "title": "Jisoo",
-      "imageUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%28102%29.jpg",
-      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/blackp/main/Jis/jis%20%28102%29.jpg",
+      "title": "rose",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
       "type": "image",
       "categoryId": 1,
       "viewCount": 36174,
       "isPremium": true,
-      "tags": "Jisoo, Blackpink"
+      "tags": "rose, flower"
     }
   ]
 }
+
 
 
 
