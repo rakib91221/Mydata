@@ -14,7 +14,7 @@
   },
   "app_config": {
     "privacy_policy_url": "https://sites.google.com/view/glowviawallpaper/",
-    "terms_url": "https://www.google.com",
+    "terms_url": "https://sites.google.com/view/glowvia-terms-and-conditions/",
     "contact_email": "fatema.dev.info@gmail.com",
     "more_apps_url": "https://play.google.com/store/apps/developer?id=PixelBlue Studio",
     "screenshot_protection_enabled": true
@@ -5564,6 +5564,7 @@
     }
   ]
 }
+
 
 
 
