@@ -35,8 +35,8 @@
     "wallpapers": [
         {
             "id": "wall_01",
-            "image_url": "https://picsum.photos/1080/1920?random=1",
-            "thumbnail_url": "https://picsum.photos/540/960?random=1",
+            "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%281%29.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%281%29.jpg",
             "category": "Nature",
             "is_premium": false,
             "title": "Mountain Sunrise",
@@ -470,8 +470,8 @@
         },
         {
             "id": "wall_30",
-            "image_url": "https://picsum.photos/1080/1920?random=30",
-            "thumbnail_url": "https://picsum.photos/540/960?random=30",
+            "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%2810%29.jpg",
+            "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%2810%29.jpg",
             "category": "K-Pop",
             "is_premium": true,
             "title": "K-Pop Neon",
@@ -484,4 +484,5 @@
             "is_child_safe": true
         }
     ]
+
 }
