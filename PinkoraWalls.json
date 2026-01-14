@@ -4,6 +4,7 @@
     "interstitial_enabled": true,
     "rewarded_enabled": true,
     "native_enabled": true,
+    "native_ad_interval": 10,
     "interstitial_interval": 5,
     "rewarded_unlock_enabled": true,
     "maintenance": false,
@@ -48365,6 +48366,7 @@
     
     ]
 }
+
 
 
 
