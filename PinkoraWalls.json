@@ -36,18 +36,14 @@
     "applovin_native_id": "YOUR_APPLOVIN_NATIVE_ID_HERE",
     "categories": [
         "Jisoo",
-        "Abstract",
-        "Minimal",
-        "K-Pop",
-        "Space",
-        "Animals"
+        "Jennie",
+        "Rose",
+        "Lisa",
+        "Blackpink"
     ],
     "featured_enabled": true,
     "featured_wallpaper_ids": [
-        "Jisoo608",
-        "wall_20",
-        "wall_22",
-        "wall_30"
+        "Jisoo608"
     ],
     "wallpapers": [
         {
@@ -14528,6 +14524,7 @@
     
     ]
 }
+
 
 
 
