@@ -51,117 +51,80 @@
     ],
     "wallpapers": [
         {
-            "id": "wall_01",
-            "image_url": "https://picsum.photos/1080/1920?random=1",
-            "thumbnail_url": "https://picsum.photos/540/960?random=1",
-            "category": "Nature",
-            "is_premium": false,
-            "is_featured": false,
-            "title": "Mountain Sunrise",
-            "tags": [
-                "mountain",
-                "sunrise",
-                "landscape"
-            ],
-            "downloads": 1250,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_02",
-            "image_url": "https://picsum.photos/1080/1920?random=2",
-            "thumbnail_url": "https://picsum.photos/540/960?random=2",
-            "category": "Nature",
-            "is_premium": true,
-            "is_featured": false,
-            "title": "Ocean Waves",
-            "tags": [
-                "ocean",
-                "waves",
-                "beach"
-            ],
-            "downloads": 890,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_03",
-            "image_url": "https://picsum.photos/1080/1920?random=3",
-            "thumbnail_url": "https://picsum.photos/540/960?random=3",
-            "category": "Abstract",
-            "is_premium": false,
-            "is_featured": false,
-            "title": "Neon Lights",
-            "tags": [
-                "neon",
-                "abstract",
-                "colorful"
-            ],
-            "downloads": 2100,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_04",
-            "image_url": "https://picsum.photos/1080/1920?random=4",
-            "thumbnail_url": "https://picsum.photos/540/960?random=4",
-            "category": "Abstract",
-            "is_premium": true,
-            "is_featured": false,
-            "title": "Geometric Shapes",
-            "tags": [
-                "geometric",
-                "shapes",
-                "gradient"
-            ],
-            "downloads": 1560,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_05",
-            "image_url": "https://picsum.photos/1080/1920?random=5",
-            "thumbnail_url": "https://picsum.photos/540/960?random=5",
-            "category": "Minimal",
-            "is_premium": false,
-            "is_featured": false,
-            "title": "Clean Lines",
-            "tags": [
-                "minimal",
-                "clean",
-                "simple"
-            ],
-            "downloads": 3200,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_06",
-            "image_url": "https://picsum.photos/1080/1920?random=6",
-            "thumbnail_url": "https://picsum.photos/540/960?random=6",
-            "category": "Minimal",
-            "is_premium": false,
-            "is_featured": false,
-            "title": "Soft Pastels",
-            "tags": [
-                "pastel",
-                "soft",
-                "minimal"
-            ],
-            "downloads": 1890,
-            "is_child_safe": true
-        },
-        {
-            "id": "wall_07",
-            "image_url": "https://picsum.photos/1080/1920?random=7",
-            "thumbnail_url": "https://picsum.photos/540/960?random=7",
-            "category": "K-Pop",
-            "is_premium": true,
-            "is_featured": true,
-            "title": "Stage Lights",
-            "tags": [
-                "kpop",
-                "concert",
-                "stage"
-            ],
-            "downloads": 4500,
-            "is_child_safe": true
-        },
+      "id": "Jisoo01",
+      "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%281%29.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%281%29.jpg",
+      "category": "Jisoo",
+      "is_premium": true,
+      "is_featured": false,
+      "title": "Jisoo",
+      "tags": [
+        "Jisoo",
+        "Blackpink"
+      ],
+      "downloads": 81314,
+      "is_child_safe": false
+    },
+    {
+      "id": "Jisoo02",
+      "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%2810%29.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%2810%29.jpg",
+      "category": "Jisoo",
+      "is_premium": true,
+      "is_featured": false,
+      "title": "Jisoo",
+      "tags": [
+        "Jisoo",
+        "Blackpink"
+      ],
+      "downloads": 15863,
+      "is_child_safe": false
+    },
+    {
+      "id": "Jisoo03",
+      "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28100%29.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28100%29.jpg",
+      "category": "Jisoo",
+      "is_premium": true,
+      "is_featured": false,
+      "title": "Jisoo",
+      "tags": [
+        "Jisoo",
+        "Blackpink"
+      ],
+      "downloads": 79904,
+      "is_child_safe": false
+    },
+    {
+      "id": "Jisoo04",
+      "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28101%29.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28101%29.jpg",
+      "category": "Jisoo",
+      "is_premium": false,
+      "is_featured": false,
+      "title": "Jisoo",
+      "tags": [
+        "Jisoo",
+        "Blackpink"
+      ],
+      "downloads": 97731,
+      "is_child_safe": false
+    },
+    {
+      "id": "Jisoo05",
+      "image_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28102%29.jpg",
+      "thumbnail_url": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20%28102%29.jpg",
+      "category": "Jisoo",
+      "is_premium": false,
+      "is_featured": false,
+      "title": "Jisoo",
+      "tags": [
+        "Jisoo",
+        "Blackpink"
+      ],
+      "downloads": 16882,
+      "is_child_safe": false
+    },
         {
             "id": "wall_08",
             "image_url": "https://picsum.photos/1080/1920?random=8",
@@ -212,3 +175,4 @@
         }
     ]
 }
+
