@@ -4,478 +4,521 @@
     "interstitial_enabled": true,
     "rewarded_enabled": true,
     "native_enabled": true,
-    "interstitial_interval": 4,
+    "interstitial_interval": 5,
+    "rewarded_unlock_enabled": true,
     "maintenance": false,
-    "maintenance_message": "Pinkora is currently undergoing scheduled maintenance. We'll be back shortly!",
+    "maintenance_message": "We're working on improvements. Please check back later.",
     "latest_version": "1.0.0",
+    "min_version": "1.0.0",
+    "update_url": "https://play.google.com/store/apps/details?id=com.srrafi.pinkorak_pophdwalls",
     "force_update": false,
+    "privacy_policy_url": "https://pinkora.app/privacy",
+    "terms_url": "https://pinkora.app/terms",
+    "support_email": "support@pinkora.app",
+    "ad_free_duration_minutes": 30,
+    "cache_duration_hours": 24,
+    "auto_wallpaper_enabled": true,
+    "child_safe_mode_default": true,
+    "applovin_sdk_key": "YOUR_APPLOVIN_SDK_KEY_HERE",
+    "banner_ad_id": "YOUR_BANNER_AD_UNIT_ID",
+    "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_UNIT_ID",
+    "rewarded_ad_id": "YOUR_REWARDED_AD_UNIT_ID",
+    "native_ad_id": "YOUR_NATIVE_AD_UNIT_ID",
     "categories": [
-        "K-Pop",
         "Nature",
         "Abstract",
-        "Anime",
-        "Minimal"
+        "Minimal",
+        "K-Pop",
+        "Space",
+        "Animals"
     ],
     "featured_enabled": true,
     "featured_wallpaper_ids": [
-        "kp_01",
-        "kp_03",
-        "nt_01",
-        "ab_01"
+        "wall_07",
+        "wall_20",
+        "wall_22",
+        "wall_30"
     ],
-    "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
-    "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
     "wallpapers": [
         {
-            "id": "kp_01",
-            "title": "Blackpink Lisa Gold",
-            "image_url": "https://images.unsplash.com/photo-1615210721218-9769396f4949?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1615210721218-9769396f4949?q=80&w=400",
-            "category": "K-Pop",
-            "is_premium": true,
-            "is_featured": true,
-            "is_child_safe": true,
-            "tags": [
-                "Lisa",
-                "Blackpink",
-                "K-Pop"
-            ]
-        },
-        {
-            "id": "kp_02",
-            "title": "BTS V Blue",
-            "image_url": "https://images.unsplash.com/photo-1621609764095-b32bbe35cf3a?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1621609764095-b32bbe35cf3a?q=80&w=400",
-            "category": "K-Pop",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "V",
-                "BTS",
-                "K-Pop"
-            ]
-        },
-        {
-            "id": "nt_01",
-            "title": "Mountain Lake",
-            "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
+            "id": "wall_01",
+            "image_url": "https://picsum.photos/1080/1920?random=1",
+            "thumbnail_url": "https://picsum.photos/540/960?random=1",
             "category": "Nature",
             "is_premium": false,
-            "is_featured": true,
-            "is_child_safe": true,
+            "is_featured": false,
+            "title": "Mountain Sunrise",
             "tags": [
-                "Mountain",
-                "Lake",
-                "Nature"
-            ]
+                "mountain",
+                "sunrise",
+                "landscape"
+            ],
+            "downloads": 1250,
+            "is_child_safe": true
         },
         {
-            "id": "ab_01",
-            "title": "Cyber Wave",
-            "image_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400",
-            "category": "Abstract",
-            "is_premium": true,
-            "is_featured": true,
-            "is_child_safe": true,
-            "tags": [
-                "Cyber",
-                "Wave",
-                "Abstract"
-            ]
-        },
-        {
-            "id": "an_01",
-            "title": "Neon Samurai",
-            "image_url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1614850523296-d8c1af93d400?q=80&w=400",
-            "category": "Anime",
+            "id": "wall_02",
+            "image_url": "https://picsum.photos/1080/1920?random=2",
+            "thumbnail_url": "https://picsum.photos/540/960?random=2",
+            "category": "Nature",
             "is_premium": true,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Ocean Waves",
             "tags": [
-                "Samurai",
-                "Neon",
-                "Anime"
-            ]
+                "ocean",
+                "waves",
+                "beach"
+            ],
+            "downloads": 890,
+            "is_child_safe": true
         },
         {
-            "id": "mn_01",
-            "title": "Minimal Moon",
-            "image_url": "https://images.unsplash.com/photo-1532667449560-72a95c8d381b?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1532667449560-72a95c8d381b?q=80&w=400",
+            "id": "wall_03",
+            "image_url": "https://picsum.photos/1080/1920?random=3",
+            "thumbnail_url": "https://picsum.photos/540/960?random=3",
+            "category": "Abstract",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Neon Lights",
+            "tags": [
+                "neon",
+                "abstract",
+                "colorful"
+            ],
+            "downloads": 2100,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_04",
+            "image_url": "https://picsum.photos/1080/1920?random=4",
+            "thumbnail_url": "https://picsum.photos/540/960?random=4",
+            "category": "Abstract",
+            "is_premium": true,
+            "is_featured": false,
+            "title": "Geometric Shapes",
+            "tags": [
+                "geometric",
+                "shapes",
+                "gradient"
+            ],
+            "downloads": 1560,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_05",
+            "image_url": "https://picsum.photos/1080/1920?random=5",
+            "thumbnail_url": "https://picsum.photos/540/960?random=5",
             "category": "Minimal",
             "is_premium": false,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Clean Lines",
             "tags": [
-                "Moon",
-                "Minimal"
-            ]
+                "minimal",
+                "clean",
+                "simple"
+            ],
+            "downloads": 3200,
+            "is_child_safe": true
         },
         {
-            "id": "kp_03",
-            "title": "Twice Nayeon Pop",
-            "image_url": "https://images.unsplash.com/photo-1598128558393-70ff21433be0?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1598128558393-70ff21433be0?q=80&w=400",
+            "id": "wall_06",
+            "image_url": "https://picsum.photos/1080/1920?random=6",
+            "thumbnail_url": "https://picsum.photos/540/960?random=6",
+            "category": "Minimal",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Soft Pastels",
+            "tags": [
+                "pastel",
+                "soft",
+                "minimal"
+            ],
+            "downloads": 1890,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_07",
+            "image_url": "https://picsum.photos/1080/1920?random=7",
+            "thumbnail_url": "https://picsum.photos/540/960?random=7",
             "category": "K-Pop",
             "is_premium": true,
             "is_featured": true,
-            "is_child_safe": true,
+            "title": "Stage Lights",
             "tags": [
-                "Nayeon",
-                "Twice",
-                "K-Pop"
-            ]
+                "kpop",
+                "concert",
+                "stage"
+            ],
+            "downloads": 4500,
+            "is_child_safe": true
         },
         {
-            "id": "nt_02",
+            "id": "wall_08",
+            "image_url": "https://picsum.photos/1080/1920?random=8",
+            "thumbnail_url": "https://picsum.photos/540/960?random=8",
+            "category": "K-Pop",
+            "is_premium": true,
+            "is_featured": false,
+            "title": "Fan Art Dreams",
+            "tags": [
+                "kpop",
+                "art",
+                "colorful"
+            ],
+            "downloads": 3800,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_09",
+            "image_url": "https://picsum.photos/1080/1920?random=9",
+            "thumbnail_url": "https://picsum.photos/540/960?random=9",
+            "category": "Space",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Galaxy View",
+            "tags": [
+                "space",
+                "galaxy",
+                "stars"
+            ],
+            "downloads": 5600,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_10",
+            "image_url": "https://picsum.photos/1080/1920?random=10",
+            "thumbnail_url": "https://picsum.photos/540/960?random=10",
+            "category": "Space",
+            "is_premium": true,
+            "is_featured": false,
+            "title": "Nebula Dreams",
+            "tags": [
+                "nebula",
+                "space",
+                "cosmic"
+            ],
+            "downloads": 4200,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_11",
+            "image_url": "https://picsum.photos/1080/1920?random=11",
+            "thumbnail_url": "https://picsum.photos/540/960?random=11",
+            "category": "Animals",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Cute Puppy",
+            "tags": [
+                "dog",
+                "puppy",
+                "cute"
+            ],
+            "downloads": 7800,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_12",
+            "image_url": "https://picsum.photos/1080/1920?random=12",
+            "thumbnail_url": "https://picsum.photos/540/960?random=12",
+            "category": "Animals",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Majestic Lion",
+            "tags": [
+                "lion",
+                "wildlife",
+                "nature"
+            ],
+            "downloads": 3450,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_13",
+            "image_url": "https://picsum.photos/1080/1920?random=13",
+            "thumbnail_url": "https://picsum.photos/540/960?random=13",
+            "category": "Nature",
+            "is_premium": false,
+            "is_featured": false,
             "title": "Forest Path",
-            "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=400",
+            "tags": [
+                "forest",
+                "path",
+                "green"
+            ],
+            "downloads": 2300,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_14",
+            "image_url": "https://picsum.photos/1080/1920?random=14",
+            "thumbnail_url": "https://picsum.photos/540/960?random=14",
             "category": "Nature",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Forest",
-                "Path",
-                "Nature"
-            ]
-        },
-        {
-            "id": "ab_02",
-            "title": "Liquid Gold",
-            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400",
-            "category": "Abstract",
             "is_premium": true,
             "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Liquid",
-                "Gold",
-                "Abstract"
-            ]
-        },
-        {
-            "id": "an_02",
-            "title": "Cyberpunk City",
-            "image_url": "https://images.unsplash.com/photo-1605142859862-978be7eba909?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1605142859862-978be7eba909?q=80&w=400",
-            "category": "Anime",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Cyberpunk",
-                "City",
-                "Anime"
-            ]
-        },
-        {
-            "id": "mn_02",
-            "title": "Geometric Lines",
-            "image_url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1508739773434-c26b3d09e071?q=80&w=400",
-            "category": "Minimal",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Geometric",
-                "Lines",
-                "Minimal"
-            ]
-        },
-        {
-            "id": "kp_04",
-            "title": "Stray Kids Hyunjin",
-            "image_url": "https://images.unsplash.com/photo-1514525253344-a812bb93b85b?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1514525253344-a812bb93b85b?q=80&w=400",
-            "category": "K-Pop",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Hyunjin",
-                "Stray Kids",
-                "K-Pop"
-            ]
-        },
-        {
-            "id": "nt_03",
-            "title": "Ocean Sunset",
-            "image_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=400",
-            "category": "Nature",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Ocean",
-                "Sunset",
-                "Nature"
-            ]
-        },
-        {
-            "id": "ab_03",
-            "title": "Ink Swirl",
-            "image_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?q=80&w=400",
-            "category": "Abstract",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Ink",
-                "Swirl",
-                "Abstract"
-            ]
-        },
-        {
-            "id": "an_03",
-            "title": "Spirit Forest",
-            "image_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=400",
-            "category": "Anime",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Spirit",
-                "Forest",
-                "Anime"
-            ]
-        },
-        {
-            "id": "mn_03",
-            "title": "Single Leaf",
-            "image_url": "https://images.unsplash.com/photo-1501004318641-729e8e3986ee?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1501004318641-729e8e3986ee?q=80&w=400",
-            "category": "Minimal",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Leaf",
-                "Minimal"
-            ]
-        },
-        {
-            "id": "kp_05",
-            "title": "Red Velvet Irene",
-            "image_url": "https://images.unsplash.com/photo-1496293455970-f8581aae0e3c?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1496293455970-f8581aae0e3c?q=80&w=400",
-            "category": "K-Pop",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Irene",
-                "Red Velvet",
-                "K-Pop"
-            ]
-        },
-        {
-            "id": "nt_04",
-            "title": "Snowy Peaks",
-            "image_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=400",
-            "category": "Nature",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Snow",
-                "Mountain",
-                "Nature"
-            ]
-        },
-        {
-            "id": "ab_04",
-            "title": "Fractal Geometry",
-            "image_url": "https://images.unsplash.com/photo-1509225770129-fbcf8a696c0b?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1509225770129-fbcf8a696c0b?q=80&w=400",
-            "category": "Abstract",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Fractal",
-                "Geometry",
-                "Abstract"
-            ]
-        },
-        {
-            "id": "an_04",
-            "title": "Mecha Unit",
-            "image_url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?q=80&w=400",
-            "category": "Anime",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Mecha",
-                "Robot",
-                "Anime"
-            ]
-        },
-        {
-            "id": "mn_04",
-            "title": "Desert Dunes",
-            "image_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1473580044384-7ba9967e16a0?q=80&w=400",
-            "category": "Minimal",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Desert",
-                "Dunes",
-                "Minimal"
-            ]
-        },
-        {
-            "id": "kp_06",
-            "title": "EXO Kai Rover",
-            "image_url": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1493225255756-d9584f8606e9?q=80&w=400",
-            "category": "K-Pop",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Kai",
-                "EXO",
-                "K-Pop"
-            ]
-        },
-        {
-            "id": "nt_05",
             "title": "Autumn Leaves",
-            "image_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?q=80&w=400",
-            "category": "Nature",
-            "is_premium": false,
-            "is_featured": false,
-            "is_child_safe": true,
             "tags": [
-                "Autumn",
-                "Leaves",
-                "Nature"
-            ]
+                "autumn",
+                "leaves",
+                "orange"
+            ],
+            "downloads": 1980,
+            "is_child_safe": true
         },
         {
-            "id": "ab_05",
-            "title": "Cosmic Dust",
-            "image_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?q=80&w=400",
+            "id": "wall_15",
+            "image_url": "https://picsum.photos/1080/1920?random=15",
+            "thumbnail_url": "https://picsum.photos/540/960?random=15",
+            "category": "Abstract",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Liquid Metal",
+            "tags": [
+                "liquid",
+                "metal",
+                "abstract"
+            ],
+            "downloads": 2780,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_16",
+            "image_url": "https://picsum.photos/1080/1920?random=16",
+            "thumbnail_url": "https://picsum.photos/540/960?random=16",
             "category": "Abstract",
             "is_premium": true,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Smoke Art",
             "tags": [
-                "Cosmic",
-                "Space",
-                "Abstract"
-            ]
+                "smoke",
+                "art",
+                "flow"
+            ],
+            "downloads": 1650,
+            "is_child_safe": true
         },
         {
-            "id": "an_05",
-            "title": "Dragon Spirit",
-            "image_url": "https://images.unsplash.com/photo-1578632738981-4330694f023a?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1578632738981-4330694f023a?q=80&w=400",
-            "category": "Anime",
-            "is_premium": true,
-            "is_featured": false,
-            "is_child_safe": true,
-            "tags": [
-                "Dragon",
-                "Spirit",
-                "Anime"
-            ]
-        },
-        {
-            "id": "mn_05",
-            "title": "Zen Stones",
-            "image_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=400",
+            "id": "wall_17",
+            "image_url": "https://picsum.photos/1080/1920?random=17",
+            "thumbnail_url": "https://picsum.photos/540/960?random=17",
             "category": "Minimal",
             "is_premium": false,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Black & White",
             "tags": [
-                "Zen",
-                "Stones",
-                "Minimal"
-            ]
+                "bw",
+                "minimal",
+                "contrast"
+            ],
+            "downloads": 4100,
+            "is_child_safe": true
         },
         {
-            "id": "kp_07",
-            "title": "IU Lilac",
-            "image_url": "https://images.unsplash.com/photo-1526218626217-dc65a29bb444?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1526218626217-dc65a29bb444?q=80&w=400",
+            "id": "wall_18",
+            "image_url": "https://picsum.photos/1080/1920?random=18",
+            "thumbnail_url": "https://picsum.photos/540/960?random=18",
+            "category": "Minimal",
+            "is_premium": true,
+            "is_featured": false,
+            "title": "Single Flower",
+            "tags": [
+                "flower",
+                "minimal",
+                "elegant"
+            ],
+            "downloads": 2890,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_19",
+            "image_url": "https://picsum.photos/1080/1920?random=19",
+            "thumbnail_url": "https://picsum.photos/540/960?random=19",
             "category": "K-Pop",
             "is_premium": false,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Lightsticks",
             "tags": [
-                "IU",
-                "Lilac",
-                "K-Pop"
-            ]
+                "kpop",
+                "lightstick",
+                "concert"
+            ],
+            "downloads": 5200,
+            "is_child_safe": true
         },
         {
-            "id": "nt_06",
-            "title": "Starry Night",
-            "image_url": "https://images.unsplash.com/photo-1506318137071-a8e063b4b519?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1506318137071-a8e063b4b519?q=80&w=400",
+            "id": "wall_20",
+            "image_url": "https://picsum.photos/1080/1920?random=20",
+            "thumbnail_url": "https://picsum.photos/540/960?random=20",
+            "category": "K-Pop",
+            "is_premium": true,
+            "is_featured": true,
+            "title": "K-Pop Aesthetic",
+            "tags": [
+                "kpop",
+                "aesthetic",
+                "pink"
+            ],
+            "downloads": 6700,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_21",
+            "image_url": "https://picsum.photos/1080/1920?random=21",
+            "thumbnail_url": "https://picsum.photos/540/960?random=21",
+            "category": "Space",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Moon Surface",
+            "tags": [
+                "moon",
+                "space",
+                "surface"
+            ],
+            "downloads": 3400,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_22",
+            "image_url": "https://picsum.photos/1080/1920?random=22",
+            "thumbnail_url": "https://picsum.photos/540/960?random=22",
+            "category": "Space",
+            "is_premium": true,
+            "is_featured": true,
+            "title": "Aurora Borealis",
+            "tags": [
+                "aurora",
+                "northern lights",
+                "sky"
+            ],
+            "downloads": 8900,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_23",
+            "image_url": "https://picsum.photos/1080/1920?random=23",
+            "thumbnail_url": "https://picsum.photos/540/960?random=23",
+            "category": "Animals",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Sleepy Cat",
+            "tags": [
+                "cat",
+                "sleepy",
+                "cute"
+            ],
+            "downloads": 9200,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_24",
+            "image_url": "https://picsum.photos/1080/1920?random=24",
+            "thumbnail_url": "https://picsum.photos/540/960?random=24",
+            "category": "Animals",
+            "is_premium": true,
+            "is_featured": false,
+            "title": "Underwater World",
+            "tags": [
+                "fish",
+                "underwater",
+                "ocean"
+            ],
+            "downloads": 2100,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_25",
+            "image_url": "https://picsum.photos/1080/1920?random=25",
+            "thumbnail_url": "https://picsum.photos/540/960?random=25",
+            "category": "Nature",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Cherry Blossoms",
+            "tags": [
+                "cherry",
+                "blossom",
+                "spring"
+            ],
+            "downloads": 7600,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_26",
+            "image_url": "https://picsum.photos/1080/1920?random=26",
+            "thumbnail_url": "https://picsum.photos/540/960?random=26",
             "category": "Nature",
             "is_premium": true,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Snowy Mountains",
             "tags": [
-                "Stars",
-                "Night",
-                "Nature"
-            ]
+                "snow",
+                "mountain",
+                "winter"
+            ],
+            "downloads": 4300,
+            "is_child_safe": true
         },
         {
-            "id": "ab_06",
-            "title": "Prism Light",
-            "image_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?q=80&w=400",
+            "id": "wall_27",
+            "image_url": "https://picsum.photos/1080/1920?random=27",
+            "thumbnail_url": "https://picsum.photos/540/960?random=27",
             "category": "Abstract",
             "is_premium": false,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Gradient Blend",
             "tags": [
-                "Prism",
-                "Light",
-                "Abstract"
-            ]
+                "gradient",
+                "blend",
+                "colors"
+            ],
+            "downloads": 5500,
+            "is_child_safe": true
         },
         {
-            "id": "an_06",
-            "title": "Sky Castle",
-            "image_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=1000",
-            "thumbnail_url": "https://images.unsplash.com/photo-1534447677768-be436bb09401?q=80&w=400",
-            "category": "Anime",
+            "id": "wall_28",
+            "image_url": "https://picsum.photos/1080/1920?random=28",
+            "thumbnail_url": "https://picsum.photos/540/960?random=28",
+            "category": "Abstract",
             "is_premium": true,
             "is_featured": false,
-            "is_child_safe": true,
+            "title": "Digital Art",
             "tags": [
-                "Castle",
-                "Sky",
-                "Anime"
-            ]
+                "digital",
+                "art",
+                "creative"
+            ],
+            "downloads": 3900,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_29",
+            "image_url": "https://picsum.photos/1080/1920?random=29",
+            "thumbnail_url": "https://picsum.photos/540/960?random=29",
+            "category": "Minimal",
+            "is_premium": false,
+            "is_featured": false,
+            "title": "Zen Garden",
+            "tags": [
+                "zen",
+                "garden",
+                "peaceful"
+            ],
+            "downloads": 2600,
+            "is_child_safe": true
+        },
+        {
+            "id": "wall_30",
+            "image_url": "https://picsum.photos/1080/1920?random=30",
+            "thumbnail_url": "https://picsum.photos/540/960?random=30",
+            "category": "K-Pop",
+            "is_premium": true,
+            "is_featured": true,
+            "title": "K-Pop Neon",
+            "tags": [
+                "kpop",
+                "neon",
+                "vibrant"
+            ],
+            "downloads": 8100,
+            "is_child_safe": true
         }
     ]
 }
