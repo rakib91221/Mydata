@@ -4,7 +4,7 @@
     "interstitial_enabled": true,
     "rewarded_enabled": true,
     "native_enabled": true,
-    "interstitial_interval": 5,
+    "interstitial_interval": 4,
     "rewarded_unlock_enabled": true,
     "maintenance": false,
     "maintenance_message": "We're working on improvements. Please check back later.",
@@ -19,12 +19,20 @@
     "cache_duration_hours": 24,
     "auto_wallpaper_enabled": true,
     "child_safe_mode_default": true,
+    "admob_app_id": "ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX",
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+    "native_ad_id": "ca-app-pub-3940256099942544/1044960115",
+    "ad_provider": "admob",
+    "ad_status": "on",
+    "banner_status": "on",
+    "rewarded_status": "on",
     "applovin_sdk_key": "YOUR_APPLOVIN_SDK_KEY_HERE",
-    "banner_ad_id": "YOUR_BANNER_AD_UNIT_ID",
-    "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_UNIT_ID",
-    "rewarded_ad_id": "YOUR_REWARDED_AD_UNIT_ID",
-    "native_ad_id": "YOUR_NATIVE_AD_UNIT_ID",
-    "test_mode_enabled": false,
+    "applovin_banner_id": "YOUR_APPLOVIN_BANNER_ID_HERE",
+    "applovin_interstitial_id": "YOUR_APPLOVIN_INTERSTITIAL_ID_HERE",
+    "applovin_rewarded_id": "YOUR_APPLOVIN_REWARDED_ID_HERE",
+    "applovin_native_id": "YOUR_APPLOVIN_NATIVE_ID_HERE",
     "categories": [
         "Nature",
         "Abstract",
@@ -523,4 +531,3 @@
         }
     ]
 }
-
