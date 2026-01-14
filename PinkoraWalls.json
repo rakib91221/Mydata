@@ -24,7 +24,7 @@
     "interstitial_ad_id": "YOUR_INTERSTITIAL_AD_UNIT_ID",
     "rewarded_ad_id": "YOUR_REWARDED_AD_UNIT_ID",
     "native_ad_id": "YOUR_NATIVE_AD_UNIT_ID",
-    "test_mode_enabled": true,
+    "test_mode_enabled": false,
     "categories": [
         "Nature",
         "Abstract",
@@ -523,3 +523,4 @@
         }
     ]
 }
+
