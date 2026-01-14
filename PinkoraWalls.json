@@ -18,7 +18,7 @@
     "ad_free_duration_minutes": 30,
     "cache_duration_hours": 24,
     "auto_wallpaper_enabled": true,
-    "child_safe_mode_default": true,
+    "child_safe_mode_default": false,
     "admob_app_id": "ca-app-pub-XXXXXXXXXXXXXXXX~XXXXXXXXXX",
     "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
@@ -14524,6 +14524,7 @@
     
     ]
 }
+
 
 
 
