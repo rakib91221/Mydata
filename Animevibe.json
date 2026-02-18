@@ -54,62 +54,14 @@
         {
             "id": "romance",
             "name": "Romance",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/ae/73/06/ae730623a07670732ebf010b96860d5c.jpg",
             "priority": 2
-        },
-        {
-            "id": "fantasy",
-            "name": "Fantasy",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 3
-        },
-        {
-            "id": "horror",
-            "name": "Horror",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 4
-        },
-        {
-            "id": "mecha",
-            "name": "Mecha",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 5
-        },
-        {
-            "id": "slice_of_life",
-            "name": "Slice of Life",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 6
-        },
-        {
-            "id": "aesthetic",
-            "name": "Aesthetic",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 7
-        },
-        {
-            "id": "dark",
-            "name": "Dark / Gothic",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 8
-        },
-        {
-            "id": "chibi",
-            "name": "Chibi / Cute",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 9
-        },
-        {
-            "id": "landscape",
-            "name": "Landscape",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 10
         }
     ],
     "wallpapers": [
         {
             "id": "wp001",
-            "title": "Naruto Sunset Battle",
+            "title": "Anime Warrior",
             "categoryId": "action",
             "thumbnailUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "fullUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
@@ -117,65 +69,11 @@
             "isFeatured": true,
             "colorHex": "#FF6600",
             "tags": [
-                "naruto",
                 "anime",
                 "action",
-                "sunset",
-                "battle"
+                "warrior"
             ],
             "timestamp": 1739900000000
-        },
-        {
-            "id": "wp002",
-            "title": "Dragon Ball Z Power Up",
-            "categoryId": "action",
-            "thumbnailUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
-            "fullUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#FFD700",
-            "tags": [
-                "dragonball",
-                "goku",
-                "action",
-                "power"
-            ],
-            "timestamp": 1739890000000
-        },
-        {
-            "id": "wp003",
-            "title": "Attack on Titan - Freedom",
-            "categoryId": "action",
-            "thumbnailUrl": "https://i.pinimg.com/736x/d7/ea/b1/d7eab135a05bf24e6e82144dcdb8eaba.jpg",
-            "fullUrl": "https://i.pinimg.com/736x/d7/ea/b1/d7eab135a05bf24e6e82144dcdb8eaba.jpg",
-            "isPremium": true,
-            "isFeatured": true,
-            "colorHex": "#8B0000",
-            "tags": [
-                "aot",
-                "titan",
-                "eren",
-                "action",
-                "dark"
-            ],
-            "timestamp": 1739880000000
-        },
-        {
-            "id": "wp004",
-            "title": "Demon Slayer Breathing",
-            "categoryId": "action",
-            "thumbnailUrl": "https://i.pinimg.com/1200x/3e/e6/1b/3ee61becdeac029610b79e7779d8e1fb.jpg",
-            "fullUrl": "https://i.pinimg.com/1200x/3e/e6/1b/3ee61becdeac029610b79e7779d8e1fb.jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#00BFFF",
-            "tags": [
-                "demonslayer",
-                "tanjiro",
-                "breathing",
-                "action"
-            ],
-            "timestamp": 1739870000000
         }
     ]
 }
