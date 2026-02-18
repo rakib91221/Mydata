@@ -1,0 +1,637 @@
+{
+    "appConfig": {
+        "version": "1.0",
+        "appName": "AnimeVibe",
+        "forceUpdate": false,
+        "latestVersionCode": 1,
+        "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe",
+        "privacyPolicyUrl": "https://yoursite.com/privacy",
+        "maintenanceMode": false,
+        "maintenanceMessage": "We're updating our servers. Please try again later.",
+        "adConfig": {
+            "globalAdEnabled": true,
+            "showBanner": true,
+            "showInterstitial": true,
+            "showNative": true,
+            "showRewarded": true,
+            "showAppOpen": false,
+            "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+            "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+            "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+            "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+            "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
+            "interstitialClickCount": 3,
+            "interstitialCooldownSeconds": 30,
+            "nativeAdPosition": 5,
+            "nativeAdRepeatInterval": 8,
+            "bannerRefreshSeconds": 45,
+            "showBannerOnHome": true,
+            "showBannerOnDetail": false,
+            "showBannerOnCategories": true,
+            "showBannerOnFavorites": true,
+            "showBannerOnSettings": false,
+            "showInterstitialOnWallpaperClick": true,
+            "showInterstitialOnCategoryClick": false,
+            "showInterstitialOnBackFromDetail": false,
+            "showInterstitialOnDownload": true,
+            "showInterstitialOnSetWallpaper": false,
+            "showRewardedForPremium": true,
+            "showRewardedForNoAds": false,
+            "premiumUnlockHours": 48,
+            "showNativeOnHome": true,
+            "showNativeOnCategories": false,
+            "showNativeOnFavorites": false,
+            "showNativeOnSearch": true
+        }
+    },
+    "categories": [
+        {
+            "id": "action",
+            "name": "Action",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/action.jpg",
+            "priority": 1
+        },
+        {
+            "id": "romance",
+            "name": "Romance",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/romance.jpg",
+            "priority": 2
+        },
+        {
+            "id": "fantasy",
+            "name": "Fantasy",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/fantasy.jpg",
+            "priority": 3
+        },
+        {
+            "id": "horror",
+            "name": "Horror",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/horror.jpg",
+            "priority": 4
+        },
+        {
+            "id": "mecha",
+            "name": "Mecha",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/mecha.jpg",
+            "priority": 5
+        },
+        {
+            "id": "slice_of_life",
+            "name": "Slice of Life",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/slice_of_life.jpg",
+            "priority": 6
+        },
+        {
+            "id": "aesthetic",
+            "name": "Aesthetic",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/aesthetic.jpg",
+            "priority": 7
+        },
+        {
+            "id": "dark",
+            "name": "Dark / Gothic",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/dark.jpg",
+            "priority": 8
+        },
+        {
+            "id": "chibi",
+            "name": "Chibi / Cute",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/chibi.jpg",
+            "priority": 9
+        },
+        {
+            "id": "landscape",
+            "name": "Landscape",
+            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/landscape.jpg",
+            "priority": 10
+        }
+    ],
+    "wallpapers": [
+        {
+            "id": "wp001",
+            "title": "Naruto Sunset Battle",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp001_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp001_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#FF6600",
+            "tags": [
+                "naruto",
+                "anime",
+                "action",
+                "sunset",
+                "battle"
+            ],
+            "timestamp": 1739900000000
+        },
+        {
+            "id": "wp002",
+            "title": "Dragon Ball Z Power Up",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp002_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp002_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FFD700",
+            "tags": [
+                "dragonball",
+                "goku",
+                "action",
+                "power"
+            ],
+            "timestamp": 1739890000000
+        },
+        {
+            "id": "wp003",
+            "title": "Attack on Titan - Freedom",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp003_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp003_full.jpg",
+            "isPremium": true,
+            "isFeatured": true,
+            "colorHex": "#8B0000",
+            "tags": [
+                "aot",
+                "titan",
+                "eren",
+                "action",
+                "dark"
+            ],
+            "timestamp": 1739880000000
+        },
+        {
+            "id": "wp004",
+            "title": "Demon Slayer Breathing",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp004_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp004_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#00BFFF",
+            "tags": [
+                "demonslayer",
+                "tanjiro",
+                "breathing",
+                "action"
+            ],
+            "timestamp": 1739870000000
+        },
+        {
+            "id": "wp005",
+            "title": "One Piece Gear 5",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp005_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp005_full.jpg",
+            "isPremium": true,
+            "isFeatured": true,
+            "colorHex": "#FF4500",
+            "tags": [
+                "onepiece",
+                "luffy",
+                "gear5",
+                "action"
+            ],
+            "timestamp": 1739860000000
+        },
+        {
+            "id": "wp006",
+            "title": "Your Name - Twilight",
+            "categoryId": "romance",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp006_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp006_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#FF69B4",
+            "tags": [
+                "yourname",
+                "romance",
+                "sky",
+                "comet",
+                "aesthetic"
+            ],
+            "timestamp": 1739850000000
+        },
+        {
+            "id": "wp007",
+            "title": "Toradora Love",
+            "categoryId": "romance",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp007_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp007_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FF1493",
+            "tags": [
+                "toradora",
+                "romance",
+                "love",
+                "school"
+            ],
+            "timestamp": 1739840000000
+        },
+        {
+            "id": "wp008",
+            "title": "Violet Evergarden Letter",
+            "categoryId": "romance",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp008_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp008_full.jpg",
+            "isPremium": true,
+            "isFeatured": false,
+            "colorHex": "#9370DB",
+            "tags": [
+                "violet",
+                "evergarden",
+                "romance",
+                "beautiful"
+            ],
+            "timestamp": 1739830000000
+        },
+        {
+            "id": "wp009",
+            "title": "Sword Art Online",
+            "categoryId": "fantasy",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp009_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp009_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#4169E1",
+            "tags": [
+                "sao",
+                "kirito",
+                "fantasy",
+                "sword",
+                "game"
+            ],
+            "timestamp": 1739820000000
+        },
+        {
+            "id": "wp010",
+            "title": "Mushoku Tensei Magic",
+            "categoryId": "fantasy",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp010_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp010_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#32CD32",
+            "tags": [
+                "mushoku",
+                "isekai",
+                "fantasy",
+                "magic"
+            ],
+            "timestamp": 1739810000000
+        },
+        {
+            "id": "wp011",
+            "title": "Re:Zero Emilia",
+            "categoryId": "fantasy",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp011_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp011_full.jpg",
+            "isPremium": true,
+            "isFeatured": false,
+            "colorHex": "#C0C0C0",
+            "tags": [
+                "rezero",
+                "emilia",
+                "fantasy",
+                "ice"
+            ],
+            "timestamp": 1739800000000
+        },
+        {
+            "id": "wp012",
+            "title": "Tokyo Ghoul Mask",
+            "categoryId": "horror",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp012_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp012_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#8B0000",
+            "tags": [
+                "tokyoghoul",
+                "kaneki",
+                "horror",
+                "mask",
+                "dark"
+            ],
+            "timestamp": 1739790000000
+        },
+        {
+            "id": "wp013",
+            "title": "Junji Ito Spiral",
+            "categoryId": "horror",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp013_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp013_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#2F4F4F",
+            "tags": [
+                "junjiito",
+                "horror",
+                "spiral",
+                "uzumaki"
+            ],
+            "timestamp": 1739780000000
+        },
+        {
+            "id": "wp014",
+            "title": "Evangelion Unit 01",
+            "categoryId": "mecha",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp014_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp014_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#7B68EE",
+            "tags": [
+                "evangelion",
+                "eva01",
+                "mecha",
+                "shinji"
+            ],
+            "timestamp": 1739770000000
+        },
+        {
+            "id": "wp015",
+            "title": "Gundam Aerial",
+            "categoryId": "mecha",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp015_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp015_full.jpg",
+            "isPremium": true,
+            "isFeatured": false,
+            "colorHex": "#B22222",
+            "tags": [
+                "gundam",
+                "mecha",
+                "robot",
+                "aerial"
+            ],
+            "timestamp": 1739760000000
+        },
+        {
+            "id": "wp016",
+            "title": "K-ON Music Party",
+            "categoryId": "slice_of_life",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp016_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp016_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FFB6C1",
+            "tags": [
+                "kon",
+                "music",
+                "cute",
+                "slice_of_life"
+            ],
+            "timestamp": 1739750000000
+        },
+        {
+            "id": "wp017",
+            "title": "Spy x Family",
+            "categoryId": "slice_of_life",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp017_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp017_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#FF6347",
+            "tags": [
+                "spyxfamily",
+                "anya",
+                "family",
+                "cute"
+            ],
+            "timestamp": 1739740000000
+        },
+        {
+            "id": "wp018",
+            "title": "Lo-Fi Girl Study",
+            "categoryId": "aesthetic",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp018_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp018_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#DDA0DD",
+            "tags": [
+                "lofi",
+                "aesthetic",
+                "study",
+                "chill",
+                "cozy"
+            ],
+            "timestamp": 1739730000000
+        },
+        {
+            "id": "wp019",
+            "title": "Neon Tokyo Night",
+            "categoryId": "aesthetic",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp019_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp019_full.jpg",
+            "isPremium": true,
+            "isFeatured": true,
+            "colorHex": "#FF00FF",
+            "tags": [
+                "neon",
+                "tokyo",
+                "cyberpunk",
+                "aesthetic",
+                "night"
+            ],
+            "timestamp": 1739720000000
+        },
+        {
+            "id": "wp020",
+            "title": "Sakura Cherry Blossom",
+            "categoryId": "aesthetic",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp020_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp020_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FFB7C5",
+            "tags": [
+                "sakura",
+                "cherry",
+                "blossom",
+                "aesthetic",
+                "spring"
+            ],
+            "timestamp": 1739710000000
+        },
+        {
+            "id": "wp021",
+            "title": "Dark Samurai",
+            "categoryId": "dark",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp021_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp021_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#1C1C1C",
+            "tags": [
+                "samurai",
+                "dark",
+                "gothic",
+                "warrior"
+            ],
+            "timestamp": 1739700000000
+        },
+        {
+            "id": "wp022",
+            "title": "Death Note Shadow",
+            "categoryId": "dark",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp022_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp022_full.jpg",
+            "isPremium": true,
+            "isFeatured": false,
+            "colorHex": "#2C2C2C",
+            "tags": [
+                "deathnote",
+                "light",
+                "dark",
+                "shadow",
+                "thriller"
+            ],
+            "timestamp": 1739690000000
+        },
+        {
+            "id": "wp023",
+            "title": "Chibi Goku",
+            "categoryId": "chibi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp023_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp023_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FFA500",
+            "tags": [
+                "chibi",
+                "goku",
+                "cute",
+                "kawaii"
+            ],
+            "timestamp": 1739680000000
+        },
+        {
+            "id": "wp024",
+            "title": "Chibi Naruto & Sasuke",
+            "categoryId": "chibi",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp024_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp024_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#FFC0CB",
+            "tags": [
+                "chibi",
+                "naruto",
+                "sasuke",
+                "cute",
+                "kawaii"
+            ],
+            "timestamp": 1739670000000
+        },
+        {
+            "id": "wp025",
+            "title": "Makoto Shinkai Sky",
+            "categoryId": "landscape",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp025_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp025_full.jpg",
+            "isPremium": false,
+            "isFeatured": true,
+            "colorHex": "#87CEEB",
+            "tags": [
+                "shinkai",
+                "sky",
+                "landscape",
+                "clouds",
+                "beautiful"
+            ],
+            "timestamp": 1739660000000
+        },
+        {
+            "id": "wp026",
+            "title": "Ghibli Forest Spirit",
+            "categoryId": "landscape",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp026_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp026_full.jpg",
+            "isPremium": true,
+            "isFeatured": false,
+            "colorHex": "#228B22",
+            "tags": [
+                "ghibli",
+                "forest",
+                "totoro",
+                "landscape",
+                "nature"
+            ],
+            "timestamp": 1739650000000
+        },
+        {
+            "id": "wp027",
+            "title": "Weathering With You Rain",
+            "categoryId": "landscape",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp027_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp027_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#4682B4",
+            "tags": [
+                "weathering",
+                "rain",
+                "sky",
+                "landscape",
+                "romantic"
+            ],
+            "timestamp": 1739640000000
+        },
+        {
+            "id": "wp028",
+            "title": "Jujutsu Kaisen Domain",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp028_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp028_full.jpg",
+            "isPremium": true,
+            "isFeatured": true,
+            "colorHex": "#4B0082",
+            "tags": [
+                "jujutsu",
+                "gojo",
+                "domain",
+                "action",
+                "purple"
+            ],
+            "timestamp": 1739630000000
+        },
+        {
+            "id": "wp029",
+            "title": "My Hero Academia Plus Ultra",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp029_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp029_full.jpg",
+            "isPremium": false,
+            "isFeatured": false,
+            "colorHex": "#00FF00",
+            "tags": [
+                "mha",
+                "deku",
+                "hero",
+                "action",
+                "plus_ultra"
+            ],
+            "timestamp": 1739620000000
+        },
+        {
+            "id": "wp030",
+            "title": "Solo Leveling Shadow",
+            "categoryId": "action",
+            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp030_thumb.jpg",
+            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp030_full.jpg",
+            "isPremium": true,
+            "isFeatured": true,
+            "colorHex": "#6A0DAD",
+            "tags": [
+                "sololeveling",
+                "shadow",
+                "action",
+                "dark",
+                "manhwa"
+            ],
+            "timestamp": 1739610000000
+        }
+    ]
+}
