@@ -54,55 +54,55 @@
         {
             "id": "romance",
             "name": "Romance",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/romance.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 2
         },
         {
             "id": "fantasy",
             "name": "Fantasy",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/fantasy.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 3
         },
         {
             "id": "horror",
             "name": "Horror",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/horror.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 4
         },
         {
             "id": "mecha",
             "name": "Mecha",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/mecha.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 5
         },
         {
             "id": "slice_of_life",
             "name": "Slice of Life",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/slice_of_life.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 6
         },
         {
             "id": "aesthetic",
             "name": "Aesthetic",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/aesthetic.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 7
         },
         {
             "id": "dark",
             "name": "Dark / Gothic",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/dark.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 8
         },
         {
             "id": "chibi",
             "name": "Chibi / Cute",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/chibi.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 9
         },
         {
             "id": "landscape",
             "name": "Landscape",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/landscape.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 10
         }
     ],
@@ -180,4 +180,5 @@
     ]
 
 }
+
 
