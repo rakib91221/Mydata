@@ -48,7 +48,7 @@
         {
             "id": "action",
             "name": "Action",
-            "thumbnail": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/categories/action.jpg",
+            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "priority": 1
         },
         {
@@ -111,8 +111,8 @@
             "id": "wp001",
             "title": "Naruto Sunset Battle",
             "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp001_thumb.jpg",
-            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp001_full.jpg",
+            "thumbnailUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
+            "fullUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
             "isPremium": false,
             "isFeatured": true,
             "colorHex": "#FF6600",
@@ -129,8 +129,8 @@
             "id": "wp002",
             "title": "Dragon Ball Z Power Up",
             "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp002_thumb.jpg",
-            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp002_full.jpg",
+            "thumbnailUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
+            "fullUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
             "isPremium": false,
             "isFeatured": false,
             "colorHex": "#FFD700",
@@ -146,8 +146,8 @@
             "id": "wp003",
             "title": "Attack on Titan - Freedom",
             "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp003_thumb.jpg",
-            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp003_full.jpg",
+            "thumbnailUrl": "https://i.pinimg.com/736x/d7/ea/b1/d7eab135a05bf24e6e82144dcdb8eaba.jpg",
+            "fullUrl": "https://i.pinimg.com/736x/d7/ea/b1/d7eab135a05bf24e6e82144dcdb8eaba.jpg",
             "isPremium": true,
             "isFeatured": true,
             "colorHex": "#8B0000",
@@ -164,8 +164,8 @@
             "id": "wp004",
             "title": "Demon Slayer Breathing",
             "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/thumbnails/wp004_thumb.jpg",
-            "fullUrl": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/wallpapers/wp004_full.jpg",
+            "thumbnailUrl": "https://i.pinimg.com/1200x/3e/e6/1b/3ee61becdeac029610b79e7779d8e1fb.jpg",
+            "fullUrl": "https://i.pinimg.com/1200x/3e/e6/1b/3ee61becdeac029610b79e7779d8e1fb.jpg",
             "isPremium": false,
             "isFeatured": false,
             "colorHex": "#00BFFF",
@@ -634,4 +634,5 @@
             "timestamp": 1739610000000
         }
     ]
+
 }
