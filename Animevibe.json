@@ -68,62 +68,8 @@
         {
             "id": "Anime",
             "name": "Anime",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
+            "thumbnail": "https://raw.githubusercontent.com/srrakib292/AnimeVibe/main/animevibe1/1%20%28246%29.jpg",
             "priority": 1
-        },
-        {
-            "id": "romance",
-            "name": "Romance",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 2
-        },
-        {
-            "id": "fantasy",
-            "name": "Fantasy",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 3
-        },
-        {
-            "id": "horror",
-            "name": "Horror",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 4
-        },
-        {
-            "id": "mecha",
-            "name": "Mecha",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 5
-        },
-        {
-            "id": "slice_of_life",
-            "name": "Slice of Life",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 6
-        },
-        {
-            "id": "aesthetic",
-            "name": "Aesthetic",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 7
-        },
-        {
-            "id": "dark",
-            "name": "Dark / Gothic",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 8
-        },
-        {
-            "id": "chibi",
-            "name": "Chibi / Cute",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 9
-        },
-        {
-            "id": "landscape",
-            "name": "Landscape",
-            "thumbnail": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "priority": 10
         }
     ],
     "wallpapers": [
@@ -7929,6 +7875,7 @@
     }
     ]
 }
+
 
 
 
