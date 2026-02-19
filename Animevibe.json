@@ -21,7 +21,7 @@
         "forceUpdate": false,
         "latestVersionCode": 1,
         "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe",
-        "privacyPolicyUrl": "https://yoursite.com/privacy",
+        "privacyPolicyUrl": "https://sites.google.com/view/animevibewallpaper/",
         "maintenanceMode": false,
         "maintenanceMessage": "We're updating our servers. Please try again later.",
         "sync_interval": 24,
@@ -7875,6 +7875,7 @@
     }
     ]
 }
+
 
 
 
