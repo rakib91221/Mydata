@@ -32,14 +32,14 @@
             "showBannerOnSettings": false,
             "showInterstitialOnWallpaperClick": true,
             "showInterstitialOnCategoryClick": false,
-            "showInterstitialOnBackFromDetail": false,
+            "showInterstitialOnBackFromDetail": true,
             "showInterstitialOnDownload": true,
             "showInterstitialOnSetWallpaper": false,
             "showRewardedForPremium": true,
             "showRewardedForNoAds": false,
             "premiumUnlockHours": 48,
             "showNativeOnHome": true,
-            "showNativeOnCategories": false,
+            "showNativeOnCategories": true,
             "showNativeOnFavorites": false,
             "showNativeOnSearch": true
         }
@@ -176,5 +176,6 @@
         }
     ]
 }
+
 
 
