@@ -38,7 +38,7 @@
             "showInterstitialOnCategoryClick": false,
             "showInterstitialOnBackFromDetail": false,
             "showInterstitialOnDownload": true,
-            "showInterstitialOnSetWallpaper": false,
+            "showInterstitialOnSetWallpaper": true,
             "showRewardedForPremium": true,
             "showRewardedForNoAds": false,
             "premiumUnlockHours": 48,
@@ -255,5 +255,6 @@
         }
     ]
 }
+
 
 
