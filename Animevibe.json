@@ -27,7 +27,7 @@
         "sync_interval": 24,
         "premium_check_interval": 1,
         "download_dir": "AnimeVibe",
-        "page_size": 20,
+        "page_size": 100,
         "adConfig": {
             "globalAdEnabled": true,
             "showBanner": true,
@@ -7929,4 +7929,5 @@
     }
     ]
 }
+
 
