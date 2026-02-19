@@ -26,7 +26,7 @@
             "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
             "interstitialClickCount": 3,
             "interstitialCooldownSeconds": 30,
-            "nativeAdPosition": 5,
+            "nativeAdPosition": 2,
             "nativeAdRepeatInterval": 8,
             "bannerRefreshSeconds": 45,
             "showBannerOnHome": true,
@@ -183,3 +183,4 @@
         }
     ]
 }
+
