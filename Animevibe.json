@@ -1,4 +1,20 @@
 {
+    "moreApps": [
+        {
+            "id": "app01",
+            "name": "Super Anime Walls",
+            "description": "Premium High Quality Anime Wallpapers",
+            "iconUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        },
+        {
+            "id": "app02",
+            "name": "Live Anime Pro",
+            "description": "Live 4K Wallpapers for your phone",
+            "iconUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        }
+    ],
     "appConfig": {
         "version": "1.0",
         "appName": "AnimeVibe",
@@ -24,7 +40,7 @@
             "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
             "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
             "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-            "interstitialClickCount": 3,
+            "interstitialClickCount": 4,
             "interstitialCooldownSeconds": 30,
             "nativeAdPosition": 2,
             "nativeAdRepeatInterval": 8,
@@ -181,80 +197,5 @@
             ],
             "timestamp": 1739870000000
         }
-        ,
-        {
-            "id": "wp005",
-            "title": "Demon Slayer Breathing",
-            "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (305).jpg",
-            "fullUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (305).jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#00BFFF",
-            "tags": [
-                "demonslayer",
-                "tanjiro",
-                "breathing",
-                "action"
-            ],
-            "timestamp": 1739870000000
-        }
-        ,
-        {
-            "id": "wp006",
-            "title": "Demon Slayer Breathing",
-            "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (306).jpg",
-            "fullUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (306).jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#00BFFF",
-            "tags": [
-                "demonslayer",
-                "tanjiro",
-                "breathing",
-                "action"
-            ],
-            "timestamp": 1739870000000
-        }
-        ,
-        {
-            "id": "wp007",
-            "title": "Demon Slayer Breathing",
-            "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (307).jpg",
-            "fullUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (307).jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#00BFFF",
-            "tags": [
-                "demonslayer",
-                "tanjiro",
-                "breathing",
-                "action"
-            ],
-            "timestamp": 1739870000000
-        }
-        ,
-        {
-            "id": "wp008",
-            "title": "Demon Slayer Breathing",
-            "categoryId": "action",
-            "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (308).jpg",
-            "fullUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1 (308).jpg",
-            "isPremium": false,
-            "isFeatured": false,
-            "colorHex": "#00BFFF",
-            "tags": [
-                "demonslayer",
-                "tanjiro",
-                "breathing",
-                "action"
-            ],
-            "timestamp": 1739870000000
-        }
     ]
 }
-
-
-
