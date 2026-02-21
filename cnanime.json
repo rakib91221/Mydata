@@ -2,22 +2,15 @@
     "moreApps": [
         {
             "id": "app01",
-            "name": "Super Anime Walls",
+            "name": "AnimeVibe Wallpaper",
             "description": "Premium High Quality Anime Wallpapers",
-            "iconUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
-            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
-        },
-        {
-            "id": "app02",
-            "name": "Live Anime Pro",
-            "description": "Live 4K Wallpapers for your phone",
-            "iconUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
+            "iconUrl": "https://i.pinimg.com/736x/f3/45/59/f345595021492f4b96bf851fab8aa3b6.jpg",
             "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
         }
     ],
     "appConfig": {
         "version": "1.0",
-        "appName": "AnimeVibe",
+        "appName": "Donghua Anime Wallpaper",
         "forceUpdate": false,
         "latestVersionCode": 1,
         "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe",
@@ -5277,6 +5270,7 @@
     }
     ]
 }
+
 
 
 
