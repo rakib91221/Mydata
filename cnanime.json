@@ -76,6 +76,12 @@
       "name": "Mix_1",
       "thumbnail": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Mix_1/mixgirl%20%281%29.jpg",
       "priority": 2
+    },
+          {
+      "id": "The Great Ruler",
+      "name": "The great ruler",
+      "thumbnail": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%281%29.jpg",
+      "priority": 3
     }
     ],
     "wallpapers": [
@@ -4503,9 +4509,775 @@
         "Mix_1"
       ],
       "timestamp": 1771685699019
+    },
+        {
+      "id": "wp296",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%281%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%281%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp297",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2810%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2810%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp298",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2811%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2811%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp299",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2812%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2812%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp300",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2813%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2813%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp301",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2814%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2814%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp302",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2815%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2815%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp303",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2816%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2816%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp304",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2817%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2817%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp305",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2818%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2818%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp306",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2819%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2819%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp307",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%282%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%282%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp308",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2820%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2820%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp309",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2821%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2821%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp310",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2822%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2822%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp311",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2823%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2823%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp312",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2824%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2824%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp313",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2825%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2825%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp314",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2826%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2826%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp315",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2827%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2827%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp316",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2828%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2828%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp317",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2829%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2829%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp318",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%283%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%283%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp319",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2830%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2830%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp320",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2831%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2831%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp321",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2832%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2832%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp322",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2833%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2833%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp323",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2834%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2834%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp324",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2835%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2835%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp325",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2836%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2836%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp326",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2837%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2837%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp327",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2838%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2838%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp328",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2839%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2839%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp329",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%284%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%284%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp330",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2840%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2840%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp331",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2841%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2841%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp332",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2842%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2842%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp333",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2843%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2843%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp334",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2844%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2844%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp335",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2845%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2845%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp336",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2846%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2846%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp337",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2847%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2847%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp338",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2848%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2848%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp339",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2849%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2849%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp340",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%285%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%285%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp341",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2850%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2850%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp342",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2851%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%2851%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp343",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%286%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%286%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp344",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%287%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%287%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp345",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%288%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%288%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
+    },
+    {
+      "id": "wp346",
+      "title": "The Great Ruler",
+      "categoryId": "The Great Ruler",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%289%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/The%20Great%20Ruler/The%20Great%20Ruler%20%289%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "The Great Ruler"
+      ],
+      "timestamp": 1771685997541
     }
     ]
 }
+
 
 
 
