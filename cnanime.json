@@ -9,20 +9,20 @@
         }
     ],
     "appConfig": {
-        "version": "1.0",
+        "version": "3.0",
         "appName": "Donghua Anime Wallpaper",
         "forceUpdate": false,
-        "latestVersionCode": 1,
-        "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe",
+        "latestVersionCode": 3,
+        "updateUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp",
         "privacyPolicyUrl": "https://sites.google.com/view/animevibewallpaper/",
         "maintenanceMode": false,
         "maintenanceMessage": "We're updating our servers. Please try again later.",
         "sync_interval": 24,
         "premium_check_interval": 1,
-        "download_dir": "AnimeVibe",
+        "download_dir": "Donghua Wallpaper",
         "page_size": 20,
         "adConfig": {
-            "globalAdEnabled": true,
+            "globalAdEnabled": false,
             "showBanner": true,
             "showInterstitial": true,
             "showNative": true,
@@ -50,7 +50,7 @@
             "showInterstitialOnSetWallpaper": true,
             "showRewardedForPremium": true,
             "showRewardedForNoAds": false,
-            "premiumUnlockHours": 48,
+            "premiumUnlockHours": 168,
             "showNativeOnHome": true,
             "showNativeOnCategories": false,
             "showNativeOnFavorites": false,
@@ -5270,6 +5270,7 @@
     }
     ]
 }
+
 
 
 
