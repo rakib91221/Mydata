@@ -1,0 +1,97 @@
+{
+    "moreApps": [
+        {
+            "id": "app01",
+            "name": "Super Anime Walls",
+            "description": "Premium High Quality Anime Wallpapers",
+            "iconUrl": "https://i.pinimg.com/736x/83/5c/1e/835c1ef9b0e2bc2c319a51610c906627.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        },
+        {
+            "id": "app02",
+            "name": "Live Anime Pro",
+            "description": "Live 4K Wallpapers for your phone",
+            "iconUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        }
+    ],
+    "appConfig": {
+        "version": "1.0",
+        "appName": "AnimeVibe",
+        "forceUpdate": false,
+        "latestVersionCode": 1,
+        "updateUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe",
+        "privacyPolicyUrl": "https://sites.google.com/view/animevibewallpaper/",
+        "maintenanceMode": false,
+        "maintenanceMessage": "We're updating our servers. Please try again later.",
+        "sync_interval": 24,
+        "premium_check_interval": 1,
+        "download_dir": "AnimeVibe",
+        "page_size": 20,
+        "adConfig": {
+            "globalAdEnabled": true,
+            "showBanner": true,
+            "showInterstitial": true,
+            "showNative": true,
+            "showRewarded": true,
+            "showAppOpen": false,
+            "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+            "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+            "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+            "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+            "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
+            "interstitialClickCount": 4,
+            "interstitialCooldownSeconds": 30,
+            "nativeAdPosition": 2,
+            "nativeAdRepeatInterval": 8,
+            "bannerRefreshSeconds": 45,
+            "showBannerOnHome": true,
+            "showBannerOnDetail": false,
+            "showBannerOnCategories": true,
+            "showBannerOnFavorites": true,
+            "showBannerOnSettings": false,
+            "showInterstitialOnWallpaperClick": true,
+            "showInterstitialOnCategoryClick": false,
+            "showInterstitialOnBackFromDetail": false,
+            "showInterstitialOnDownload": true,
+            "showInterstitialOnSetWallpaper": true,
+            "showRewardedForPremium": true,
+            "showRewardedForNoAds": false,
+            "premiumUnlockHours": 48,
+            "showNativeOnHome": true,
+            "showNativeOnCategories": false,
+            "showNativeOnFavorites": false,
+            "showNativeOnSearch": true
+        }
+    },
+    "categories": [
+        {
+            "id": "Anime",
+            "name": "Anime",
+            "thumbnail": "https://raw.githubusercontent.com/srrakib292/AnimeVibe/main/animevibe1/1%20%28246%29.jpg",
+            "priority": 1
+        }
+    ],
+    "wallpapers": [
+    {
+      "id": "wp001",
+      "title": "1%20%281%29",
+      "categoryId": "Anime",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/AnimeVibe/main/animevibe1/1%20%281%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/AnimeVibe/main/animevibe1/1%20%281%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "wallpaper"
+      ],
+      "timestamp": 1771500460056
+    }
+    ]
+}
+
+
+
+
+
