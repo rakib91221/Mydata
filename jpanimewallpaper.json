@@ -6,6 +6,13 @@
             "description": "Premium High Quality Anime Wallpapers",
             "iconUrl": "https://i.pinimg.com/736x/f3/45/59/f345595021492f4b96bf851fab8aa3b6.jpg",
             "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        },
+          {
+            "id": "app02",
+            "name": "Donghua Anime Wallpaper",
+            "description": "Premium High Quality Donghua Anime Wallpapers",
+            "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOL1oPl4VVbDBwn_x1ymCoVebM-XPaE2SaT7TYePBQ7VssPkMkT6fCgortxt-SVi9IwwcubHyTMA6ApkWBk0f52k2yLAvZA5Qx6gjToNR_Imo6WV3KHqZslA6mKX-0hLZ3KvnuJX1bMGceBqLAhV-iuMrwf04tuzm2i1NdM0Z0BQdLixk59U666Z2kIE/s16000/cnanime.png",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp"
         }
     ],
     "appConfig": {
@@ -9713,6 +9720,7 @@
     }
   ]
 }
+
 
 
 
