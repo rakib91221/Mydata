@@ -10,16 +10,16 @@
     ],
     "appConfig": {
         "version": "3.0",
-        "appName": "Donghua Anime Wallpaper",
+        "appName": "Anime Wallpapers 4k",
         "forceUpdate": false,
         "latestVersionCode": 3,
-        "updateUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp",
+        "updateUrl": "https://play.google.com/store/apps/details?id=com.app.japannilashawallpaperapp",
         "privacyPolicyUrl": "https://sites.google.com/view/donghuaanimewallpaper/",
         "maintenanceMode": false,
         "maintenanceMessage": "We're updating our servers. Please try again later.",
         "sync_interval": 24,
         "premium_check_interval": 1,
-        "download_dir": "Donghua Wallpaper",
+        "download_dir": "Anime Wallpapers",
         "page_size": 20,
         "adConfig": {
             "globalAdEnabled": true,
@@ -9713,6 +9713,7 @@
     }
   ]
 }
+
 
 
 
