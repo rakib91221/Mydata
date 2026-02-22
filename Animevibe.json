@@ -30,9 +30,9 @@
         "page_size": 20,
         "adConfig": {
             "globalAdEnabled": true,
-            "showBanner": true,
-            "showInterstitial": true,
-            "showNative": true,
+            "showBanner": false,
+            "showInterstitial": false,
+            "showNative": false,
             "showRewarded": true,
             "showAppOpen": false,
             "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
@@ -57,7 +57,7 @@
             "showInterstitialOnSetWallpaper": true,
             "showRewardedForPremium": true,
             "showRewardedForNoAds": false,
-            "premiumUnlockHours": 48,
+            "premiumUnlockHours": 168,
             "showNativeOnHome": true,
             "showNativeOnCategories": false,
             "showNativeOnFavorites": false,
@@ -7875,6 +7875,7 @@
     }
     ]
 }
+
 
 
 
