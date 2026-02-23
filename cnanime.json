@@ -28,10 +28,10 @@
             "showNative": true,
             "showRewarded": true,
             "showAppOpen": false,
-            "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-            "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-            "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-            "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+            "bannerAdUnitId": "ca-app-pub-8187592720077455/5412363766",
+            "interstitialAdUnitId": "ca-app-pub-8187592720077455/7136508979",
+            "rewardedAdUnitId": "ca-app-pub-8187592720077455/5330451632",
+            "nativeAdUnitId": "ca-app-pub-8187592720077455/8258018959",
             "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
             "interstitialClickCount": 4,
             "interstitialCooldownSeconds": 30,
@@ -5270,6 +5270,7 @@
     }
     ]
 }
+
 
 
 
