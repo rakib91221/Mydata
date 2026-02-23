@@ -30,15 +30,15 @@
         "page_size": 20,
         "adConfig": {
             "globalAdEnabled": true,
-            "showBanner": false,
-            "showInterstitial": false,
-            "showNative": false,
+            "showBanner": true,
+            "showInterstitial": true,
+            "showNative": true,
             "showRewarded": true,
             "showAppOpen": false,
-            "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-            "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-            "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
-            "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+            "bannerAdUnitId": "ca-app-pub-8187592720077455/4536244712",
+            "interstitialAdUnitId": "ca-app-pub-8187592720077455/9596999701",
+            "rewardedAdUnitId": "ca-app-pub-8187592720077455/3306923529",
+            "nativeAdUnitId": "ca-app-pub-8187592720077455/6859155727",
             "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
             "interstitialClickCount": 4,
             "interstitialCooldownSeconds": 30,
@@ -7875,6 +7875,7 @@
     }
     ]
 }
+
 
 
 
