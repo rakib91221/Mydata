@@ -24,20 +24,20 @@
     "native_ad_interval": 8
   },
   "more_apps": [
-    {
-      "id": "app01",
-      "name": "AnimeVibe Wallpaper",
-      "description": "Premium High Quality Anime Wallpapers",
-      "iconUrl": "https://play-lh.googleusercontent.com/X-98yvW7m-W8uL9v9u9v9u9v9u9v9v9v9v9v9v9v9v9v9v9v9v9v9v=w240-h480-rw",
-      "appUrl": "https://play.google.com/store/apps/details?id=com.anime.vibe.wallpaper"
-    },
-    {
-      "id": "app02",
-      "name": "Donghua Anime Wallpaper",
-      "description": "Premium High Quality Donghua Anime Wallpapers",
-      "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOL1oPl4VVbDBwn_x1ymCoVebM-XPaE2SaT7TYePBQ7VssPkMkT6fCgortxt-SVi9IwwcubHyTMA6ApkWBk0f52k2yLAvZA5Qx6gjToNR_Imo6WV3KHqZslA6mKX-0hLZ3KvnuJX1bMGceBqLAhV-iuMrwf04tuzm2i1NdM0Z0BQdLixk59U666Z2kIE/s16000/cnanime.png",
-      "appUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp"
-    }
+{
+            "id": "app02",
+            "name": "Donghua Anime Wallpaper",
+            "description": "Premium High Quality Donghua Anime Wallpapers",
+            "iconUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFOL1oPl4VVbDBwn_x1ymCoVebM-XPaE2SaT7TYePBQ7VssPkMkT6fCgortxt-SVi9IwwcubHyTMA6ApkWBk0f52k2yLAvZA5Qx6gjToNR_Imo6WV3KHqZslA6mKX-0hLZ3KvnuJX1bMGceBqLAhV-iuMrwf04tuzm2i1NdM0Z0BQdLixk59U666Z2kIE/s16000/cnanime.png",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp"
+        },
+        {
+            "id": "app02",
+            "name": "Live Anime Pro",
+            "description": "Live 4K Wallpapers for your phone",
+            "iconUrl": "https://i.pinimg.com/736x/86/59/45/865945aff0bdbf6944df7c2b618198d3.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        }
   ],
   "categories": [
     {
@@ -740,3 +740,4 @@
     }
   ]
 }
+
