@@ -1,0 +1,725 @@
+{
+  "app_config": {
+    "app_name": "Mehndi Design Collection",
+    "app_version": "1.0.0",
+    "force_update": false,
+    "update_url": "https://play.google.com/store/apps/details?id=com.nilasha.mehendidesign2026",
+    "privacy_policy_url": "https://sites.google.com/view/mehndi-design-privacy-policy",
+    "show_ads": true,
+    "maintenance_mode": false,
+    "maintenance_message": "App is under maintenance. Please try again later."
+  },
+  "ad_config": {
+    "show_banner_ad": true,
+    "show_interstitial_ad": true,
+    "show_native_ad": true,
+    "show_rewarded_ad": true,
+    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+    "native_ad_id_1": "ca-app-pub-3940256099942544/2247696110",
+    "native_ad_id_2": "ca-app-pub-3940256099942544/2247696110",
+    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+    "interstitial_first_click": 1,
+    "interstitial_interval": 3
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Arabic Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=400&q=80",
+      "designs": [
+        {
+          "id": 101,
+          "title": "Elegant Arabic Vine",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 102,
+          "title": "Arabic Floral Trail",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 103,
+          "title": "Bold Arabic Pattern",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 104,
+          "title": "Arabic Paisley Swirl",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 105,
+          "title": "Ornate Arabic Mandala",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 106,
+          "title": "Arabic Leaf Cascade",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 107,
+          "title": "Royal Arabic Bel",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 108,
+          "title": "Arabic Geometric Bloom",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Indian Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=400&q=80",
+      "designs": [
+        {
+          "id": 201,
+          "title": "Traditional Indian Full Hand",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 202,
+          "title": "Indian Peacock Design",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 203,
+          "title": "Indian Lotus Mandala",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 204,
+          "title": "Rajasthani Traditional",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 205,
+          "title": "Indian Temple Art",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 206,
+          "title": "Mughal Inspired Pattern",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 207,
+          "title": "Indian Mirror Work Henna",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 208,
+          "title": "Classic Indian Dulhan",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Bridal Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=400&q=80",
+      "designs": [
+        {
+          "id": 301,
+          "title": "Royal Bridal Full Hand",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 302,
+          "title": "Bridal Dulhan Special",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 303,
+          "title": "Bridal Paisley Garden",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 304,
+          "title": "Wedding Mandala Art",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 305,
+          "title": "Bridal Elephant Trail",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 306,
+          "title": "Grand Bridal Backhand",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 307,
+          "title": "Bridal Rose Vine",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 308,
+          "title": "Royal Feet Bridal Design",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Finger Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=400&q=80",
+      "designs": [
+        {
+          "id": 401,
+          "title": "Simple Finger Lines",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 402,
+          "title": "Finger Mandala Ring",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 403,
+          "title": "Lace Finger Pattern",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 404,
+          "title": "Finger Dot Art",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 405,
+          "title": "Elegant Finger Chain",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 406,
+          "title": "Finger Vine Wrap",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Pakistani Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=400&q=80",
+      "designs": [
+        {
+          "id": 501,
+          "title": "Pakistani Floral Burst",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 502,
+          "title": "Pakistani Bold Outlines",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 503,
+          "title": "Pakistani Tikki Design",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 504,
+          "title": "Heavy Pakistani Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 505,
+          "title": "Pakistani Geometric Mix",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 506,
+          "title": "Pakistani Jaal Pattern",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 507,
+          "title": "Pakistani Rose Henna",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Simple Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=400&q=80",
+      "designs": [
+        {
+          "id": 601,
+          "title": "Easy Circle Pattern",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 602,
+          "title": "Simple Leaf Trail",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 603,
+          "title": "Minimalist Dot Design",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 604,
+          "title": "Quick Easy Flower",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 605,
+          "title": "Simple Heart Vine",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 606,
+          "title": "Basic Mandala Circle",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 607,
+          "title": "Simple Swirl Design",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 608,
+          "title": "Beginner Friendly Pattern",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Mandala Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=400&q=80",
+      "designs": [
+        {
+          "id": 701,
+          "title": "Grand Center Mandala",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 702,
+          "title": "Layered Petal Mandala",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 703,
+          "title": "Star Mandala Art",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 704,
+          "title": "Intricate Mandala Web",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 705,
+          "title": "Lotus Mandala Design",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 706,
+          "title": "Sun Burst Mandala",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 707,
+          "title": "Royal Mandala Crown",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Moroccan Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=400&q=80",
+      "designs": [
+        {
+          "id": 801,
+          "title": "Moroccan Diamond Grid",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 802,
+          "title": "Moroccan Tile Inspired",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 803,
+          "title": "Geometric Moroccan Henna",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 804,
+          "title": "Moroccan Star Pattern",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 805,
+          "title": "Bold Moroccan Lines",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 806,
+          "title": "Moroccan Arch Design",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Feet Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=400&q=80",
+      "designs": [
+        {
+          "id": 901,
+          "title": "Elegant Feet Floral",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 902,
+          "title": "Bridal Feet Pattern",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 903,
+          "title": "Simple Feet Band",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 904,
+          "title": "Feet Mandala Center",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 905,
+          "title": "Anklet Chain Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 906,
+          "title": "Traditional Feet Henna",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 907,
+          "title": "Toe Ring Mehndi Art",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Backhand Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=400&q=80",
+      "designs": [
+        {
+          "id": 1001,
+          "title": "Backhand Flower Burst",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1002,
+          "title": "Backhand Vine Trail",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1003,
+          "title": "Modern Backhand Art",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1004,
+          "title": "Backhand Mandala Rose",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1005,
+          "title": "Glitter Backhand Style",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1006,
+          "title": "Backhand Peacock Fan",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Eid Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=400&q=80",
+      "designs": [
+        {
+          "id": 1101,
+          "title": "Eid Moon Crescent",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1102,
+          "title": "Eid Festive Heavy",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1103,
+          "title": "Eid Star & Flower",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1104,
+          "title": "Eid Arabic Fusion",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1105,
+          "title": "Simple Eid Henna",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1106,
+          "title": "Eid Glitter Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1107,
+          "title": "Eid Ornamental Full",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1108,
+          "title": "Eid Minimal Charm",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Tattoo Style Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=400&q=80",
+      "designs": [
+        {
+          "id": 1201,
+          "title": "Henna Tattoo Lotus",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1202,
+          "title": "Tribal Henna Band",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1203,
+          "title": "Boho Tattoo Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1204,
+          "title": "Wrist Tattoo Henna",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1205,
+          "title": "Arm Band Henna Tattoo",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1206,
+          "title": "Modern Ink Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Kids Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=400&q=80",
+      "designs": [
+        {
+          "id": 1301,
+          "title": "Cute Butterfly Henna",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1302,
+          "title": "Baby Flower Pattern",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1303,
+          "title": "Tiny Star Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1304,
+          "title": "Heart & Dots Kids",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1305,
+          "title": "Small Palm Flower",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1306,
+          "title": "Kids Fish Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1307,
+          "title": "Easy Smiley Henna",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Glitter Mehndi",
+      "thumbnail": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=400&q=80",
+      "designs": [
+        {
+          "id": 1401,
+          "title": "Gold Glitter Floral",
+          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1402,
+          "title": "Silver Sparkle Vine",
+          "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1403,
+          "title": "Red Glitter Mandala",
+          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1404,
+          "title": "Multi Glitter Trail",
+          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1405,
+          "title": "Glitter & Henna Fusion",
+          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1406,
+          "title": "Rose Gold Glitter Art",
+          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
+          "is_premium": true
+        },
+        {
+          "id": 1407,
+          "title": "Diamond Dust Mehndi",
+          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
+          "is_premium": false
+        },
+        {
+          "id": 1408,
+          "title": "Shimmer Stone Design",
+          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
+          "is_premium": false
+        }
+      ]
+    }
+  ]
+}
