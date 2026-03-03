@@ -1,6 +1,6 @@
 {
   "app_config": {
-    "app_name": "Mehndi Design Collection",
+    "app_name": "MehndiVerse - Henna Design Hub",
     "app_version": "1.0.0",
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.nilasha.mehendidesign2026",
@@ -10,9 +10,9 @@
     "maintenance_message": "App is under maintenance. Please try again later."
   },
   "ad_config": {
-    "show_banner_ad": true,
-    "show_interstitial_ad": true,
-    "show_native_ad": true,
+    "show_banner_ad": false,
+    "show_interstitial_ad": false,
+    "show_native_ad": false,
     "show_rewarded_ad": true,
     "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
     "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
@@ -2780,6 +2780,7 @@
     }
   ]
 }
+
 
 
 
