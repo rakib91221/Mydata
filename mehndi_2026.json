@@ -55,42 +55,6 @@
           "id": 102,
           "title": "Arabic Floral Trail",
           "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 103,
-          "title": "Bold Arabic Pattern",
-          "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 104,
-          "title": "Arabic Paisley Swirl",
-          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 105,
-          "title": "Ornate Arabic Mandala",
-          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
-          "is_premium": true
-        },
-        {
-          "id": 106,
-          "title": "Arabic Leaf Cascade",
-          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 107,
-          "title": "Royal Arabic Bel",
-          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 108,
-          "title": "Arabic Geometric Bloom",
-          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
           "is_premium": true
         }
       ]
@@ -104,49 +68,13 @@
           "id": 201,
           "title": "Traditional Indian Full Hand",
           "image_url": "https://images.unsplash.com/photo-1570172606071-6d3f98e36f0c?w=800&q=90",
-          "is_premium": false
+          "is_premium": true
         },
         {
           "id": 202,
           "title": "Indian Peacock Design",
           "image_url": "https://images.unsplash.com/photo-1591122519781-be8f36a715fe?w=800&q=90",
           "is_premium": false
-        },
-        {
-          "id": 203,
-          "title": "Indian Lotus Mandala",
-          "image_url": "https://images.unsplash.com/photo-1595526051245-4506e0005bf0?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 204,
-          "title": "Rajasthani Traditional",
-          "image_url": "https://images.unsplash.com/photo-1610024062303-e355e94c7a8c?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 205,
-          "title": "Indian Temple Art",
-          "image_url": "https://images.unsplash.com/photo-1614015025254-f96623fbeee3?w=800&q=90",
-          "is_premium": true
-        },
-        {
-          "id": 206,
-          "title": "Mughal Inspired Pattern",
-          "image_url": "https://images.unsplash.com/photo-1604079628040-94301bb21b91?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 207,
-          "title": "Indian Mirror Work Henna",
-          "image_url": "https://images.unsplash.com/photo-1583089892943-c6082e986919?w=800&q=90",
-          "is_premium": false
-        },
-        {
-          "id": 208,
-          "title": "Classic Indian Dulhan",
-          "image_url": "https://images.unsplash.com/photo-1617713964959-d9a36bbc7b52?w=800&q=90",
-          "is_premium": true
         }
       ]
     },
@@ -740,4 +668,5 @@
     }
   ]
 }
+
 
