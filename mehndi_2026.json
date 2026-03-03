@@ -4,7 +4,7 @@
     "app_version": "1.0.0",
     "force_update": false,
     "update_url": "https://play.google.com/store/apps/details?id=com.nilasha.mehendidesign2026",
-    "privacy_policy_url": "https://sites.google.com/view/mehndi-design-privacy-policy",
+    "privacy_policy_url": "https://vermillion-marshmallow-d236e2.netlify.app/",
     "show_ads": true,
     "maintenance_mode": false,
     "maintenance_message": "App is under maintenance. Please try again later."
@@ -2780,6 +2780,7 @@
     }
   ]
 }
+
 
 
 
