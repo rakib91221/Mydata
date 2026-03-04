@@ -1,0 +1,125 @@
+{
+    "app_config": {
+        "app_name": "QuoteBox - Quotes & Status",
+        "app_version": "1.0.0",
+        "force_update": false,
+        "update_url": "",
+        "maintenance_mode": false,
+        "maintenance_message": ""
+    },
+    "ad_config": {
+        "show_ads": false,
+        "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+        "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+        "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+        "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+        "app_open_ad_id": "ca-app-pub-3940256099942544/9257395915",
+        "privacy_policy_url": "https://your-privacy-policy-link.com",
+        "interstitial_interval": 3,
+        "show_banner_on_home": true,
+        "show_banner_on_list": true,
+        "show_banner_on_detail": true,
+        "show_interstitial_on_category_click": true,
+        "show_interstitial_on_back_press": true,
+        "show_native_in_list": true,
+        "native_ad_position_interval": 5,
+        "show_interstitial_on_share": true,
+        "show_interstitial_on_copy": true,
+        "interstitial_click_count": 3,
+        "show_app_open_ad": true
+    },
+    "categories": [
+        {
+            "id": 1,
+            "name": "Motivational",
+            "emoji": "🔥",
+            "image_url": "",
+            "gradient_start": "#FF512F",
+            "gradient_end": "#DD2476",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 2,
+            "name": "Love",
+            "emoji": "❤️",
+            "image_url": "",
+            "gradient_start": "#ee0979",
+            "gradient_end": "#ff6a00",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 3,
+            "name": "Sad Love",
+            "emoji": "💔",
+            "image_url": "",
+            "gradient_start": "#11998e",
+            "gradient_end": "#38ef7d",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 4,
+            "name": "Life",
+            "emoji": "🌱",
+            "image_url": "",
+            "gradient_start": "#11998e",
+            "gradient_end": "#38ef7d",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 5,
+            "name": "Success",
+            "emoji": "🏆",
+            "image_url": "",
+            "gradient_start": "#6A11CB",
+            "gradient_end": "#2575FC",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 6,
+            "name": "Friendship",
+            "emoji": "🤝",
+            "image_url": "",
+            "gradient_start": "#fc4a1a",
+            "gradient_end": "#f7b733",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 7,
+            "name": "Wisdom",
+            "emoji": "🦉",
+            "image_url": "",
+            "gradient_start": "#667eea",
+            "gradient_end": "#764ba2",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 8,
+            "name": "Happiness",
+            "emoji": "😊",
+            "image_url": "",
+            "gradient_start": "#f093fb",
+            "gradient_end": "#f5576c",
+            "is_active": true,
+            "is_premium": false
+        },
+        {
+            "id": 9,
+            "name": "Attitude",
+            "emoji": "😎",
+            "image_url": "",
+            "gradient_start": "#4facfe",
+            "gradient_end": "#00f2fe",
+            "is_active": true,
+            "is_premium": false
+        }
+    ],
+    "quotes": [],
+    "statuses": []
+}
