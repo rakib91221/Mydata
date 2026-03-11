@@ -10,15 +10,15 @@
     "maintenance_message": "App is under maintenance. Please try again later."
   },
   "ad_config": {
-    "show_banner_ad": false,
-    "show_interstitial_ad": false,
-    "show_native_ad": false,
+    "show_banner_ad": true,
+    "show_interstitial_ad": true,
+    "show_native_ad": true,
     "show_rewarded_ad": true,
-    "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
-    "native_ad_id_1": "ca-app-pub-3940256099942544/2247696110",
-    "native_ad_id_2": "ca-app-pub-3940256099942544/2247696110",
-    "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+    "banner_ad_id": "ca-app-pub-8187592720077455/9255310231",
+    "interstitial_ad_id": "ca-app-pub-8187592720077455/7942228564",
+    "native_ad_id_1": "ca-app-pub-8187592720077455/8002084107",
+    "native_ad_id_2": "ca-app-pub-8187592720077455/8002084107",
+    "rewarded_ad_id": "ca-app-pub-8187592720077455/2634207350",
     "interstitial_first_click": 1,
     "interstitial_interval": 3,
     "native_ad_interval": 8
