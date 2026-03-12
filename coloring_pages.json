@@ -1,0 +1,137 @@
+{
+  "app_config": {
+    "app_name": "ColorCraft",
+    "version": "1.0",
+    "force_update": false,
+    "latest_version_code": 1,
+    "play_store_url": "https://play.google.com/store/apps/details?id=com.nilasha.colorcraft",
+    "privacy_policy_url": "https://nilasha.colorcraft/privacy",
+    "ads_config": {
+      "ads_enabled": true,
+      "banner_enabled": true,
+      "interstitial_enabled": true,
+      "native_enabled": true,
+      "rewarded_enabled": true,
+      "app_open_enabled": true,
+      "interstitial_interval": 3,
+      "interstitial_cooldown_seconds": 60,
+      "native_ad_position": 6,
+      "app_open_cooldown_seconds": 180,
+      "banner_ad_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_ad_id": "ca-app-pub-3940256099942544/1033173712",
+      "native_ad_id": "ca-app-pub-3940256099942544/2247696110",
+      "rewarded_ad_id": "ca-app-pub-3940256099942544/5224354917",
+      "app_open_ad_id": "ca-app-pub-3940256099942544/9257395921"
+    }
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Animals",
+      "icon_url": "https://images.unsplash.com/photo-1546115682-9021e1643c5b?q=80&w=200&auto=format&fit=crop",
+      "pages": [
+        {
+          "id": 101,
+          "title": "Majestic Lion",
+          "thumbnail_url": "https://images.unsplash.com/photo-1614027164847-1b2801400e82?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/lion_outline.png",
+          "is_free": true,
+          "difficulty": "medium"
+        },
+        {
+          "id": 102,
+          "title": "Cute Panda",
+          "thumbnail_url": "https://images.unsplash.com/photo-1564349483395-8e429181aa0f?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/panda_outline.png",
+          "is_free": false,
+          "difficulty": "easy"
+        },
+        {
+          "id": 103,
+          "title": "Royal Tiger",
+          "thumbnail_url": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/tiger_outline.png",
+          "is_free": false,
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Flowers",
+      "icon_url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=200&auto=format&fit=crop",
+      "pages": [
+        {
+          "id": 201,
+          "title": "Summer Bloom",
+          "thumbnail_url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/flower_outline.png",
+          "is_free": true,
+          "difficulty": "easy"
+        },
+        {
+          "id": 202,
+          "title": "Mandala Rose",
+          "thumbnail_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/rose_outline.png",
+          "is_free": false,
+          "difficulty": "hard"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Fantasy",
+      "icon_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=200&auto=format&fit=crop",
+      "pages": [
+        {
+          "id": 301,
+          "title": "Fire Dragon",
+          "thumbnail_url": "https://images.unsplash.com/photo-1582103287241-2762adba6c36?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/dragon_outline.png",
+          "is_free": true,
+          "difficulty": "hard"
+        },
+        {
+          "id": 302,
+          "title": "Mystic Unicorn",
+          "thumbnail_url": "https://images.unsplash.com/photo-1550747528-cdb45925b3f7?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/unicorn_outline.png",
+          "is_free": false,
+          "difficulty": "medium"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Vehicles",
+      "icon_url": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?q=80&w=200&auto=format&fit=crop",
+      "pages": [
+        {
+          "id": 401,
+          "title": "Racing Car",
+          "thumbnail_url": "https://images.unsplash.com/photo-1542362567-b05503f3f5f4?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/car_outline.png",
+          "is_free": true,
+          "difficulty": "medium"
+        },
+        {
+          "id": 402,
+          "title": "Space Shuttle",
+          "thumbnail_url": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/shuttle_outline.png",
+          "is_free": false,
+          "difficulty": "hard"
+        },
+        {
+          "id": 403,
+          "title": "Vintage Plane",
+          "thumbnail_url": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?q=80&w=500&auto=format&fit=crop",
+          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/plane_outline.png",
+          "is_free": true,
+          "difficulty": "easy"
+        }
+      ]
+    }
+  ]
+}
