@@ -64,16 +64,16 @@
         {
           "id": 201,
           "title": "Summer Bloom",
-          "thumbnail_url": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?q=80&w=500&auto=format&fit=crop",
-          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/flower_outline.png",
+          "thumbnail_url": "https://i.pinimg.com/736x/4f/1b/ea/4f1bea471999e366463049d747a4660a.jpg",
+          "image_url": "https://i.pinimg.com/736x/4f/1b/ea/4f1bea471999e366463049d747a4660a.jpg",
           "is_free": true,
           "difficulty": "easy"
         },
         {
           "id": 202,
           "title": "Mandala Rose",
-          "thumbnail_url": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?q=80&w=500&auto=format&fit=crop",
-          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/rose_outline.png",
+          "thumbnail_url": "https://i.pinimg.com/736x/9e/e7/e9/9ee7e964d419d57fa2a84277cf469f07.jpg",
+          "image_url": "https://i.pinimg.com/736x/9e/e7/e9/9ee7e964d419d57fa2a84277cf469f07.jpg",
           "is_free": false,
           "difficulty": "hard"
         }
@@ -87,8 +87,8 @@
         {
           "id": 301,
           "title": "Fire Dragon",
-          "thumbnail_url": "https://images.unsplash.com/photo-1582103287241-2762adba6c36?q=80&w=500&auto=format&fit=crop",
-          "image_url": "https://raw.githubusercontent.com/nilasha/colorcraft/main/images/dragon_outline.png",
+          "thumbnail_url": "https://i.pinimg.com/1200x/e7/5c/5b/e75c5b5ea9d87ea1ef3c4e5c16a57352.jpg",
+          "image_url": "https://i.pinimg.com/1200x/e7/5c/5b/e75c5b5ea9d87ea1ef3c4e5c16a57352.jpg",
           "is_free": true,
           "difficulty": "hard"
         },
