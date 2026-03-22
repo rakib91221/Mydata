@@ -6791,7 +6791,7 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/girlmix2/girlmix2%20%2894%29.jpg",
       "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/girlmix2/girlmix2%20%2894%29.jpg",
       "isPremium": true,
-      "isFeatured": false,
+      "isFeatured": true,
       "colorHex": "#FFFFFF",
       "tags": [
         "Perfect world",
@@ -6806,8 +6806,8 @@
       "categoryId": "Perfect World_Girl",
       "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/perfectworld/pgirl_1/perf_girl%20%281%29.jpg",
       "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/perfectworld/pgirl_1/perf_girl%20%281%29.jpg",
-      "isPremium": false,
-      "isFeatured": false,
+      "isPremium": true,
+      "isFeatured": true,
       "colorHex": "#FFFFFF",
       "tags": [
         "Perfect world",
