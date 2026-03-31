@@ -2270,5 +2270,19 @@
       "isPremium": false,
       "tags": "jisso, blackpink"
     }
+  ],
+    "premium": [
+    {
+      "id": 5,
+      "title": "rose",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 36174,
+      "isPremium": true,
+      "tags": "rose, flower"
+    }
   ]
 }
+
