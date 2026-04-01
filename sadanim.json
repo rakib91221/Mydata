@@ -1,0 +1,119 @@
+{
+    "moreApps": [
+        {
+            "id": "app01",
+            "name": "AnimeVibe Wallpaper",
+            "description": "Premium High Quality Anime Wallpapers",
+            "iconUrl": "https://i.pinimg.com/736x/f3/45/59/f345595021492f4b96bf851fab8aa3b6.jpg",
+            "appUrl": "https://play.google.com/store/apps/details?id=com.nilasha.animevibe"
+        }
+    ],
+    "appConfig": {
+        "version": "3.0",
+        "appName": "Donghua Anime Wallpaper",
+        "forceUpdate": false,
+        "latestVersionCode": 3,
+        "updateUrl": "https://play.google.com/store/apps/details?id=com.app.nilashawallpaperapp",
+        "privacyPolicyUrl": "https://sites.google.com/view/donghuaanimewallpaper/",
+        "maintenanceMode": false,
+        "maintenanceMessage": "We're updating our servers. Please try again later.",
+        "sync_interval": 24,
+        "premium_check_interval": 1,
+        "download_dir": "Donghua Wallpaper",
+        "page_size": 20,
+        "adConfig": {
+            "globalAdEnabled": true,
+            "showBanner": true,
+            "showInterstitial": true,
+            "showNative": true,
+            "showRewarded": true,
+            "showAppOpen": false,
+            "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
+            "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
+            "rewardedAdUnitId": "ca-app-pub-3940256099942544/5224354917",
+            "nativeAdUnitId": "ca-app-pub-3940256099942544/2247696110",
+            "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
+            "interstitialClickCount": 4,
+            "interstitialCooldownSeconds": 30,
+            "nativeAdPosition": 2,
+            "nativeAdRepeatInterval": 8,
+            "bannerRefreshSeconds": 45,
+            "showBannerOnHome": true,
+            "showBannerOnDetail": false,
+            "showBannerOnCategories": true,
+            "showBannerOnFavorites": true,
+            "showBannerOnSettings": false,
+            "showInterstitialOnWallpaperClick": true,
+            "showInterstitialOnCategoryClick": false,
+            "showInterstitialOnBackFromDetail": false,
+            "showInterstitialOnDownload": true,
+            "showInterstitialOnSetWallpaper": true,
+            "showRewardedForPremium": true,
+            "showRewardedForNoAds": false,
+            "premiumUnlockHours": 168,
+            "showNativeOnHome": true,
+            "showNativeOnCategories": false,
+            "showNativeOnFavorites": false,
+            "showNativeOnSearch": true
+        }
+    },
+    "categories": [
+       {
+      "id": "Throne Of Seal",
+      "name": "Throne of seal",
+      "thumbnail": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Throne%20of%20Seal/Throne%20of%20Seal%20%20%281%29.jpg",
+      "priority": 1
+    },
+        {
+      "id": "Mix_1",
+      "name": "Mix_1",
+      "thumbnail": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Mix_1/mixgirl%20%281%29.jpg",
+      "priority": 2
+    }
+    ],
+    "wallpapers": [
+    {
+      "id": "wp001",
+      "title": "Throne Of Seal",
+      "categoryId": "Throne Of Seal",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Throne%20of%20Seal/Throne%20of%20Seal%20%20%281%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Throne%20of%20Seal/Throne%20of%20Seal%20%20%281%29.jpg",
+      "isPremium": true,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "Throne Of Seal"
+      ],
+      "timestamp": 1771685034457
+    },
+    {
+      "id": "wp002",
+      "title": "Throne Of Seal",
+      "categoryId": "Throne Of Seal",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Throne%20of%20Seal/Throne%20of%20Seal%20%20%2810%29.jpg",
+      "fullUrl": "https://raw.githubusercontent.com/srrakib292/cnanime/main/Throne%20of%20Seal/Throne%20of%20Seal%20%20%2810%29.jpg",
+      "isPremium": false,
+      "isFeatured": false,
+      "colorHex": "#FFFFFF",
+      "tags": [
+        "anime",
+        "Throne Of Seal"
+      ],
+      "timestamp": 1771685034457
+    }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
