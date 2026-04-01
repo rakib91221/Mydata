@@ -2257,6 +2257,33 @@
     "isPremium": true,
     "tags": "Anime,Girl"
   }
-   ]
+   ],
+    "mostViewed": [
+    {
+      "id": 301,
+      "title": "anime",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(495).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(495).jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 85000,
+      "isPremium": false,
+      "tags": "anime, animegirl"
+    }
+  ],
+  "premium": [
+    {
+      "id": 5,
+      "title": "rose",
+      "imageUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
+      "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/Glowvia-Walls/main/Dream1/a1%20(54).jpg",
+      "type": "image",
+      "categoryId": 1,
+      "viewCount": 36174,
+      "isPremium": true,
+      "tags": "rose, flower"
+    }
+  ]
 }
+
 
