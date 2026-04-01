@@ -2863,7 +2863,7 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/sadanim/main/sbooy/sboy%20%28256%29.jpg",
       "fullUrl": "https://raw.githubusercontent.com/srrakib292/sadanim/main/sbooy/sboy%20%28256%29.jpg",
       "isPremium": true,
-      "isFeatured": false,
+      "isFeatured": true,
       "colorHex": "#FFFFFF",
       "tags": [
         "anime",
@@ -2959,7 +2959,7 @@
       "thumbnailUrl": "https://raw.githubusercontent.com/srrakib292/sadanim/main/sbooy/sboy%20%28261%29.jpg",
       "fullUrl": "https://raw.githubusercontent.com/srrakib292/sadanim/main/sbooy/sboy%20%28261%29.jpg",
       "isPremium": false,
-      "isFeatured": false,
+      "isFeatured": true,
       "colorHex": "#FFFFFF",
       "tags": [
         "anime",
