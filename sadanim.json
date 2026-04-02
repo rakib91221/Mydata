@@ -59,7 +59,7 @@
             "showRewardedForNoAds": false,
             "premiumUnlockHours": 168,
             "showNativeOnHome": true,
-            "showNativeOnCategories": false,
+            "showNativeOnCategories": true,
             "showNativeOnFavorites": false,
             "showNativeOnSearch": true
         }
