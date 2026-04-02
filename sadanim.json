@@ -29,7 +29,7 @@
         "download_dir": "Sad Anime Wallpaper",
         "page_size": 20,
         "adConfig": {
-            "globalAdEnabled": false,
+            "globalAdEnabled": true,
             "showBanner": true,
             "showInterstitial": true,
             "showNative": true,
