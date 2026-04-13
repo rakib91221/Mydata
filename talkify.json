@@ -1,0 +1,9 @@
+{
+  "ads_enabled": true,
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "rewarded_ad_unit_id": "ca-app-pub-3940256099942544/5224354917",
+  "interstitial_frequency": 4,
+  "banner_position": "bottom",
+  "test_mode": true
+}
