@@ -1,0 +1,52 @@
+{
+  "app_config": {
+    "version": "1.0.0",
+    "force_update": false,
+    "maintenance_mode": false,
+    "maintenance_message": "We are updating, back soon!",
+    "privacy_policy_url": "https://yoursite.com/privacy",
+    "rate_us_url": "https://play.google.com/store/apps/details?id=com.nilasha.bgcutai"
+  },
+  "admob_config": {
+    "ads_enabled": true,
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "rewarded_enabled": true,
+    "native_enabled": true,
+    "app_open_enabled": true,
+    "test_mode": true,
+    "interstitial_interval_clicks": 3,
+    "banner_ids": {
+      "home": "ca-app-pub-3940256099942544/6300978111",
+      "editor": "ca-app-pub-3940256099942544/6300978111",
+      "result": "ca-app-pub-3940256099942544/6300978111"
+    },
+    "interstitial_ids": {
+      "on_export": "ca-app-pub-3940256099942544/1033173712",
+      "on_back": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "rewarded_ids": {
+      "unlock_hd": "ca-app-pub-3940256099942544/5224354917",
+      "extra_stickers": "ca-app-pub-3940256099942544/5224354917"
+    },
+    "native_ids": {
+      "sticker_library": "ca-app-pub-3940256099942544/2247696110",
+      "filter_list": "ca-app-pub-3940256099942544/2247696110"
+    },
+    "app_open_id": "ca-app-pub-3940256099942544/3419835294"
+  },
+  "premium_config": {
+    "premium_enabled": true,
+    "free_export_limit": 5,
+    "free_bg_removal_limit": 3,
+    "rewarded_unlocks_hd": true
+  },
+  "feature_flags": {
+    "show_collage": true,
+    "show_batch_process": true,
+    "show_ai_enhance": true,
+    "show_stickers": true,
+    "show_frames": true,
+    "show_filters": true
+  }
+}
