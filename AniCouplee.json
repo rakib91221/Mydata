@@ -46,7 +46,7 @@
             "nativeAdRepeatInterval": 8,
             "bannerRefreshSeconds": 45,
             "showBannerOnHome": true,
-            "showBannerOnDetail": false,
+            "showBannerOnDetail": true,
             "showBannerOnCategories": true,
             "showBannerOnFavorites": true,
             "showBannerOnSettings": false,
