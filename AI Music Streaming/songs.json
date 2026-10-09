@@ -3,7 +3,7 @@
   "updated_at": "2026-01-01T00:00:00Z",
   "categories": [
     {
-      "id": "lofi",
+      "id": "viking",
       "name": "Lo-Fi Beats",
       "icon_url": "https://picsum.photos/seed/lofi/200/200",
       "order": 1
@@ -44,10 +44,10 @@
   "songs": [
     {
       "id": "s001",
-      "title": "Midnight Neon",
-      "artist": "AI Beats Studio",
-      "album": "Neon Dreams",
-      "category_id": "lofi",
+      "title": "Ashes of Asgard",
+      "artist": "Viking Thunder Music",
+      "album": "Album vol1",
+      "category_id": "viking",
       "cover_url": "https://picsum.photos/seed/midnight/500/500",
       "audio_url": "https://raw.githubusercontent.com/rafaelreis-hotmart/Audio-Sample-files/master/sample.mp3",
       "source": "r2",
@@ -113,6 +113,24 @@
       "tags": ["nostalgia", "lofi", "rain"],
       "lyrics": "[00:04.00] Raindrops falling on the window frame...\n[00:18.00] Remembering a forgotten name...",
       "created_at": "2026-01-04T00:00:00Z"
+    },
+      {
+      "id": "s005",
+      "title": "Ashes of Asgard",
+      "artist": "Asgard AI",
+      "album": "Nordic Myths",
+      "category_id": "edm",
+      "cover_url": "https://picsum.photos/seed/asgard/500/500",
+      "audio_url": "https://ia903206.us.archive.org/31/items/ashesofasgard/Ashes%20of%20Asgard%20%282%29.mp3",
+      "source": "archive_org",
+      "fallback_audio_url": "https://ia903206.us.archive.org/31/items/ashesofasgard/Ashes%20of%20Asgard%20%282%29.mp3",
+      "duration_seconds": 210,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": true,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "[00:05.00] Rising from the ashes of Asgard...",
+      "created_at": "2026-01-05T00:00:00Z"
     }
   ]
 }
