@@ -1,0 +1,70 @@
+{
+  "config_version": 1,
+  "app": {
+    "maintenance_mode": false,
+    "maintenance_message": "We'll be back soon! AI Beats is currently undergoing scheduled maintenance.",
+    "force_update_min_version_code": 1,
+    "update_url": "https://play.google.com/store/apps/details?id=com.nilasha.aimusicstreaming"
+  },
+  "ads": {
+    "ads_enabled": true,
+    "test_mode": true,
+    "hide_ads_for_premium_users": true,
+    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "banner": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "type": "adaptive",
+      "screens": ["home", "search", "library"]
+    },
+    "interstitial": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "show_every_n_songs": 3,
+      "min_interval_seconds": 120,
+      "max_per_session": 8,
+      "show_on_app_open_after_seconds": 0
+    },
+    "native": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "show_every_n_items": 6,
+      "screens": ["home", "library"]
+    },
+    "rewarded": {
+      "enabled": true,
+      "unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "unlock_duration_minutes": 30,
+      "max_unlocks_per_day": 5
+    }
+  },
+  "premium": {
+    "enabled": true,
+    "billing_enabled": false,
+    "product_ids": ["premium_monthly", "premium_yearly", "premium_lifetime"],
+    "free_user_can_download": false,
+    "free_user_audio_quality": "standard",
+    "premium_user_audio_quality": "high",
+    "paywall_title": "Go Premium",
+    "paywall_subtitle": "Unlock all AI tracks, zero ads, high quality audio",
+    "paywall_features": ["All premium songs", "Zero ads", "Offline cache priority", "High quality audio", "Unlimited skips"]
+  },
+  "cache": {
+    "max_cache_size_mb": 500,
+    "precache_next_track": true,
+    "precache_bytes": 1048576
+  },
+  "content": {
+    "songs_json_url": "https://raw.githubusercontent.com/USERNAME/REPO/main/songs.json",
+    "refresh_interval_minutes": 15
+  },
+  "ui": {
+    "show_visualizer": true,
+    "show_lyrics": true,
+    "promo_banner": {
+      "enabled": true,
+      "text": "Discover AI Music Beyond Imagination!",
+      "deep_link": "aibeats://promo"
+    }
+  }
+}
