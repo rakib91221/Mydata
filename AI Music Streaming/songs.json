@@ -88,7 +88,7 @@
       "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_1.mp3",
       "source": "tlgrm",
       "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_1.mp3",
-      "duration_seconds": 341,
+      "duration_seconds": 217,
       "is_premium": false,
       "is_new": true,
       "is_featured": true,
