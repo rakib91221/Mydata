@@ -84,7 +84,7 @@
       "artist": "Viking Thunder Music",
       "album": "Nordic Myths",
       "category_id": "viking",
-      "cover_url": "https://picsum.photos/seed/asgard/500/500",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_2.jpg",
       "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_1.mp3",
       "source": "tlgrm",
       "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_1.mp3",
@@ -93,7 +93,7 @@
       "is_new": true,
       "is_featured": true,
       "tags": ["epic", "nordic", "myth"],
-      "lyrics": "[00:05.00] Rising from the ashes of Asgard...",
+      "lyrics": "",
       "created_at": "2026-01-05T00:00:00Z"
     }
   ]
