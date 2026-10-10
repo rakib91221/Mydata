@@ -4,7 +4,7 @@
   "categories": [
     {
       "id": "viking",
-      "name": "Lo-Fi Beats",
+      "name": "viking",
       "icon_url": "https://picsum.photos/seed/lofi/200/200",
       "order": 1
     },
@@ -119,7 +119,7 @@
       "title": "Ashes of Asgard",
       "artist": "Asgard AI",
       "album": "Nordic Myths",
-      "category_id": "edm",
+      "category_id": "viking",
       "cover_url": "https://picsum.photos/seed/asgard/500/500",
       "audio_url": "https://ia903206.us.archive.org/31/items/ashesofasgard/Ashes%20of%20Asgard%20%282%29.mp3",
       "source": "archive_org",
