@@ -9,20 +9,14 @@
       "order": 1
     },
     {
-      "id": "chill",
-      "name": "Chill Synth",
-      "icon_url": "https://picsum.photos/seed/chill/200/200",
-      "order": 2
-    },
-    {
       "id": "pop",
-      "name": "AI Pop",
+      "name": "Pop",
       "icon_url": "https://picsum.photos/seed/pop/200/200",
       "order": 3
     },
     {
       "id": "edm",
-      "name": "Cyber EDM",
+      "name": "EDM",
       "icon_url": "https://picsum.photos/seed/edm/200/200",
       "order": 4
     }
@@ -30,7 +24,7 @@
   "playlists": [
     {
       "id": "trending",
-      "title": "Trending AI Hits",
+      "title": "Trending Hits",
       "cover_url": "https://picsum.photos/seed/trending/400/400",
       "song_ids": ["s001", "s002", "s003"]
     },
@@ -162,6 +156,42 @@
       "source": "tlgrm",
       "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_9.mp3",
       "duration_seconds": 235,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
+    } ,
+     {
+      "id": "s008",
+      "title": "Raven Gate Rising",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_12.jpg",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_11.mp3",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_11.mp3",
+      "duration_seconds": 219,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
+    },
+     {
+      "id": "s009",
+      "title": "Runes on Stone",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_14.jpg",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_13.mp3",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_13.mp3",
+      "duration_seconds": 242,
       "is_premium": false,
       "is_new": true,
       "is_featured": false,
