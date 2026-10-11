@@ -12,7 +12,7 @@
     "hide_ads_for_premium_users": true,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": {
-      "enabled": true,
+      "enabled": false,
       "unit_id": "ca-app-pub-3940256099942544/9214589741",
       "type": "adaptive",
       "screens": ["home", "search", "library"]
