@@ -132,6 +132,24 @@
       "tags": ["epic", "nordic", "myth"],
       "lyrics": "",
       "created_at": "2026-01-05T00:00:00Z"
+    } ,
+     {
+      "id": "s006",
+      "title": "Our Love Was Stronger Than War",
+      "artist": "Viking Thunder Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_8.jpg",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_7.mp3",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_7.mp3",
+      "duration_seconds": 226,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
     }
   ]
 }
