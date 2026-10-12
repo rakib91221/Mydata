@@ -126,6 +126,60 @@
       "tags": ["epic", "nordic", "myth"],
       "lyrics": "",
       "created_at": "2026-01-05T00:00:00Z"
-    } 
+    } ,
+     {
+      "id": "s006",
+      "title": "Together in Valhalla",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_20",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_19",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_19",
+      "duration_seconds": 235,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
+    } ,
+     {
+      "id": "s007",
+      "title": "I Carry You Home",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_22",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_21",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_21",
+      "duration_seconds": 235,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
+    },
+     {
+      "id": "s008",
+      "title": "My life",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_24",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_23",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_23",
+      "duration_seconds": 235,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
+    }
   ]
 }
