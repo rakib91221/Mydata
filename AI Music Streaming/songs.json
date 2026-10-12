@@ -5,19 +5,19 @@
     {
       "id": "viking",
       "name": "viking",
-      "icon_url": "https://picsum.photos/seed/lofi/200/200",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEheCzsDW8u5qk1zMtcpi5mMMkOL00s7tniDWQvDSIuPcnUimiF4yOatw30l7bbEmwtxWRIN5JepwNZWbj0H9izIExW3NfYaWzFJ0DO23bCZF2anV7fnSUX0AK6pQPen8GvEBrqzqsRJbT75fYJGLYEuvNPkdhf4Ac5Yll5aZ9wJCdrIjm08Rwxgi3gxOWoN/s1600/Viking%20Music_%20Fjord%20Epic.png",
       "order": 1
     },
     {
       "id": "pop",
       "name": "Pop",
-      "icon_url": "https://picsum.photos/seed/pop/200/200",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdX7T9BtoIg7etPINVzcZFWD8LlMdgjIJxzJLo9qe9n4ARlFNx1kGovcXq61wdobkRe4D4Qgf0umVXMI8CpBai3sB4l68OuBKYkkLtLUsAo-PkgoPkBJUxh8Ljxm206-QB4ULoCmIBnlTvTMu2DjRAWAVhpxZ28D9g-I5-71FhjdUTLQlZlSdFFm7t5spO/s1600/Neon%20Pop%20Music%20Princess.png",
       "order": 2
     },
     {
-      "id": "edm",
-      "name": "EDM",
-      "icon_url": "https://picsum.photos/seed/edm/200/200",
+      "id": "kpop",
+      "name": "KPOP",
+      "icon_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjtXuXULd1gnhr0enZGSmN8qWr7woFhD29bV39b0dqVQoTWW4JuiXbmV_xMeIL0jAb0SqsidROtCeB2APphjSoDmHz4ygfAAr5QD4O0c70sePRVYtzNSslMY3U3NClvkWXDYTNuRVpX2SamGBJVUCRjBbkn0M3twIdGx00MnSaCKZ4ShAxKZQG2l7B_MuBd/s1600/Neon%20K-Pop%20Idol%20Concert%20Poster.png",
       "order": 3
     }
   ],
