@@ -270,6 +270,24 @@
       "tags": ["epic", "nordic", "myth"],
       "lyrics": "",
       "created_at": "2026-01-05T00:00:00Z"
+    },
+     {
+      "id": "s014",
+      "title": "Viking Queen",
+      "artist": "NorseQueen Studio",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/photos/file_36.jpg",
+      "audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_35.mp3",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://api.telegram.org/file/bot8676243388:AAHGYI_S0ap8emXDmwAn2fL-AcF0k7nkBno/music/file_35.mp3",
+      "duration_seconds": 384,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-01-05T00:00:00Z"
     }
   ]
 }
