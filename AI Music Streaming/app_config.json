@@ -20,9 +20,9 @@
     "interstitial": {
       "enabled": true,
       "unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "show_every_n_songs": 3,
-      "min_interval_seconds": 120,
-      "max_per_session": 8,
+      "show_every_n_songs": 4,
+      "min_interval_seconds": 0,
+      "max_per_session": 20,
       "show_on_app_open_after_seconds": 0
     },
     "native": {
@@ -34,8 +34,8 @@
     "rewarded": {
       "enabled": true,
       "unit_id": "ca-app-pub-3940256099942544/5224354917",
-      "unlock_duration_minutes": 30,
-      "max_unlocks_per_day": 5
+      "unlock_duration_minutes": 2880,
+      "max_unlocks_per_day": 20
     }
   },
   "premium": {
