@@ -123,7 +123,7 @@
       "source": "tlgrm",
       "fallback_audio_url": "https://xsqujbntorhvfxcqcgin.supabase.co/storage/v1/object/public/viking/Together%20in%20Valhalla.mp3",
       "duration_seconds": 232,
-      "is_premium": false,
+      "is_premium": true,
       "is_new": true,
       "is_featured": false,
       "is_trending": true,
