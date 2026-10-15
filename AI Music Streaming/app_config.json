@@ -25,12 +25,6 @@
       "max_per_session": 20,
       "show_on_app_open_after_seconds": 0
     },
-    "native": {
-      "enabled": true,
-      "unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "show_every_n_items": 6,
-      "screens": ["home", "library"]
-    },
     "rewarded": {
       "enabled": true,
       "unit_id": "ca-app-pub-3940256099942544/5224354917",
@@ -46,7 +40,7 @@
     "free_user_audio_quality": "standard",
     "premium_user_audio_quality": "high",
     "paywall_title": "Go Premium",
-    "paywall_subtitle": "Unlock all AI tracks, zero ads, high quality audio",
+    "paywall_subtitle": "Unlock all tracks, zero ads, high quality audio",
     "paywall_features": ["All premium songs", "Zero ads", "Offline cache priority", "High quality audio", "Unlimited skips"]
   },
   "cache": {
@@ -63,7 +57,7 @@
     "show_lyrics": true,
     "promo_banner": {
       "enabled": true,
-      "text": "Discover AI Music Beyond Imagination!",
+      "text": "Discover Music Beyond Imagination!",
       "deep_link": "aibeats://promo"
     }
   }
