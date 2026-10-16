@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "ads_enabled": true,
+  "test_mode": true,
+  "refresh_interval_minutes": 30,
+  "app_open_ad": {
+    "enabled": false,
+    "ad_unit_id": ""
+  },
+  "banner": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
+    "screens": {
+      "home": true,
+      "background_remover": true,
+      "ai_enhance": true,
+      "result": false,
+      "creations": true,
+      "settings": false
+    },
+    "position": "bottom",
+    "refresh_seconds": 60
+  },
+  "interstitial": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "show_after_actions": 2,
+    "min_interval_seconds": 60,
+    "max_per_session": 5,
+    "triggers": {
+      "after_background_removed": true,
+      "after_enhance_done": true,
+      "on_save": false,
+      "on_screen_back": false
+    },
+    "skip_for_first_n_sessions": 0
+  },
+  "native": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+    "screens": {
+      "home": true,
+      "creations": true,
+      "result": true,
+      "settings": false
+    },
+    "position_in_list": 4,
+    "preload_count": 2
+  },
+  "rewarded": {
+    "enabled": false,
+    "ad_unit_id": ""
+  },
+  "ad_request": {
+    "tagForChildDirectedTreatment": false,
+    "max_ad_content_rating": "G"
+  },
+  "remove_ads_for_premium": true
+}
