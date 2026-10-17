@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ads_enabled": false,
+  "ads_enabled": true,
   "test_mode": false,
   "refresh_interval_minutes": 30,
   "app_open_ad": {
