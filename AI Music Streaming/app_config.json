@@ -8,7 +8,7 @@
   },
   "ads": {
     "ads_enabled": false,
-    "test_mode": true,
+    "test_mode": false,
     "hide_ads_for_premium_users": true,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": {
