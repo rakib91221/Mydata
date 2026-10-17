@@ -30,7 +30,7 @@
     "triggers": {
       "after_background_removed": true,
       "after_enhance_done": true,
-      "on_save": false,
+      "on_save": true,
       "on_screen_back": false
     },
     "skip_for_first_n_sessions": 0
