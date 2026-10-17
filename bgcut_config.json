@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ads_enabled": false,
+  "ads_enabled": true,
   "test_mode": true,
   "refresh_interval_minutes": 30,
   "app_open_ad": {
@@ -8,7 +8,7 @@
     "ad_unit_id": ""
   },
   "banner": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
     "screens": {
       "home": true,
@@ -22,7 +22,7 @@
     "refresh_seconds": 60
   },
   "interstitial": {
-    "enabled": false,
+    "enabled": true,
     "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "show_after_actions": 2,
     "min_interval_seconds": 60,
