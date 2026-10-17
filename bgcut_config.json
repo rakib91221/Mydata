@@ -1,7 +1,7 @@
 {
   "version": 1,
   "ads_enabled": true,
-  "test_mode": false,
+  "test_mode": true,
   "refresh_interval_minutes": 30,
   "app_open_ad": {
     "enabled": false,
