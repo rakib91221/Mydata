@@ -12,13 +12,13 @@
     "hide_ads_for_premium_users": true,
     "app_id": "ca-app-pub-3940256099942544~3347511713",
     "banner": {
-      "enabled": true,
+      "enabled": false,
       "unit_id": "ca-app-pub-3940256099942544/9214589741",
       "type": "adaptive",
       "screens": ["home", "search", "library"]
     },
     "interstitial": {
-      "enabled": true,
+      "enabled": false,
       "unit_id": "ca-app-pub-3940256099942544/1033173712",
       "show_every_n_songs": 4,
       "min_interval_seconds": 0,
@@ -26,7 +26,7 @@
       "show_on_app_open_after_seconds": 0
     },
     "rewarded": {
-      "enabled": true,
+      "enabled": false,
       "unit_id": "ca-app-pub-3940256099942544/5224354917",
       "unlock_duration_minutes": 2880,
       "max_unlocks_per_day": 20
