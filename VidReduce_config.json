@@ -1,0 +1,74 @@
+{
+  "config_version": 1,
+  "ads_enabled": true,
+  "test_mode": true,
+  "min_app_version_code_for_ads": 1,
+  "disabled_countries": [],
+  "ad_units": {
+    "banner": "ca-app-pub-3940256099942544/9214589741",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "app_open": "ca-app-pub-3940256099942544/9257395921",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "banner": {
+    "enabled": true,
+    "screens": {
+      "home": true,
+      "tool_screens": true,
+      "converter": true,
+      "result": false,
+      "settings": true,
+      "history": true
+    },
+    "position": "bottom",
+    "refresh_seconds": 60,
+    "show_remove_ad_tag": false
+  },
+  "interstitial": {
+    "enabled": true,
+    "show_on": {
+      "tool_start": false,
+      "process_complete": true,
+      "result_close": true,
+      "app_back_to_home": false
+    },
+    "min_interval_seconds": 90,
+    "actions_before_first_show": 2,
+    "show_every_n_actions": 2,
+    "max_per_session": 6,
+    "max_per_day": 20,
+    "preload": true
+  },
+  "native": {
+    "enabled": true,
+    "screens": {
+      "home": true,
+      "result": true,
+      "history": true,
+      "processing": true
+    },
+    "home_position_after_row": 3,
+    "history_list_every_n_items": 6,
+    "cta_color": "#F43F5E",
+    "preload_count": 2
+  },
+  "app_open": {
+    "enabled": false,
+    "cooldown_seconds": 240
+  },
+  "rewarded": {
+    "enabled": false
+  },
+  "force_update": {
+    "enabled": false,
+    "min_version_code": 1,
+    "message": "",
+    "store_url": ""
+  },
+  "announcement": {
+    "enabled": false,
+    "title": "",
+    "message": ""
+  }
+}
