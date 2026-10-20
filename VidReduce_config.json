@@ -28,16 +28,16 @@
   "interstitial": {
     "enabled": true,
     "show_on": {
-      "tool_start": false,
+      "tool_start": true,
       "process_complete": true,
       "result_close": true,
       "app_back_to_home": false
     },
-    "min_interval_seconds": 90,
-    "actions_before_first_show": 2,
-    "show_every_n_actions": 2,
-    "max_per_session": 6,
-    "max_per_day": 20,
+    "min_interval_seconds": 0,
+    "actions_before_first_show": 1,
+    "show_every_n_actions": 1,
+    "max_per_session": 50,
+    "max_per_day": 100,
     "preload": true
   },
   "native": {
