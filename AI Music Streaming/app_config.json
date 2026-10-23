@@ -4,22 +4,22 @@
     "maintenance_mode": false,
     "maintenance_message": "We'll be back soon! AI Beats is currently undergoing scheduled maintenance.",
     "force_update_min_version_code": 1,
-    "update_url": "https://play.google.com/store/apps/details?id=com.nilasha.aimusicstreaming"
+    "update_url": "https://play.google.com/store/apps/details?id=com.muziko.rafinilasha"
   },
   "ads": {
     "ads_enabled": true,
     "test_mode": false,
     "hide_ads_for_premium_users": true,
-    "app_id": "ca-app-pub-3940256099942544~3347511713",
+    "app_id": "ca-app-pub-8187592720077455~7455662572",
     "banner": {
       "enabled": true,
-      "unit_id": "ca-app-pub-3940256099942544/9214589741",
+      "unit_id": "ca-app-pub-8187592720077455/3815800467",
       "type": "adaptive",
       "screens": ["home", "search", "library"]
     },
     "interstitial": {
       "enabled": true,
-      "unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "unit_id": "ca-app-pub-8187592720077455/7232301293",
       "show_every_n_songs": 4,
       "min_interval_seconds": 0,
       "max_per_session": 20,
@@ -27,7 +27,7 @@
     },
     "rewarded": {
       "enabled": true,
-      "unit_id": "ca-app-pub-3940256099942544/5224354917",
+      "unit_id": "ca-app-pub-8187592720077455/5497829052",
       "unlock_duration_minutes": 2880,
       "max_unlocks_per_day": 20
     }
