@@ -1,0 +1,12 @@
+{
+  "ads_enabled": true,
+  "banner_enabled": true,
+  "interstitial_enabled": true,
+  "native_enabled": true,
+  "banner_ad_unit_id": "ca-app-pub-3940256099942544/9214589741",
+  "interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+  "native_ad_unit_id": "ca-app-pub-3940256099942544/2247696110",
+  "interstitial_interval_seconds": 180,
+  "interstitial_min_conversions": 1
+}
+
