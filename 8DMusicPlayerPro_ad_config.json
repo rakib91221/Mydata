@@ -1,0 +1,23 @@
+{
+  "ads_enabled": true,
+  "banner_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/6300978111"
+  },
+  "interstitial_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/1033173712",
+    "interval_seconds": 180,
+    "song_change_threshold": 4,
+    "show_on_export": true
+  },
+  "rewarded_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/5224354917"
+  },
+  "native_ad": {
+    "enabled": true,
+    "ad_unit_id": "ca-app-pub-3940256099942544/2247696110"
+  }
+}
+
