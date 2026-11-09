@@ -681,6 +681,25 @@
       "tags": ["epic", "nordic", "myth"],
       "lyrics": "",
       "created_at": "2026-11-08T00:00:00Z"
+    },
+     {
+      "id": "s0035",
+      "title": "The Raven of Odin",
+      "artist": "Viking Music",
+      "album": "Nordic Myths",
+      "category_id": "viking",
+      "cover_url": "https://kruddgzvjtpphqpltucd.supabase.co/storage/v1/object/public/viking/The%20Raven%20of%20Odin.jpg",
+      "audio_url": "https://kruddgzvjtpphqpltucd.supabase.co/storage/v1/object/public/viking/The%20Raven%20of%20Odin.mp3",
+      "source": "tlgrm",
+      "fallback_audio_url": "https://kruddgzvjtpphqpltucd.supabase.co/storage/v1/object/public/viking/The%20Raven%20of%20Odin.mp3",
+      "duration_seconds": 233,
+      "is_premium": false,
+      "is_new": true,
+      "is_featured": false,
+      "is_trending": false,
+      "tags": ["epic", "nordic", "myth"],
+      "lyrics": "",
+      "created_at": "2026-11-09T00:00:00Z"
     }
   ]
 }
